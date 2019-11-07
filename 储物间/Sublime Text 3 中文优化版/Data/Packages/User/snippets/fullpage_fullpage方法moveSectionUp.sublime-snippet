@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[moveSectionUp()]]>
+     </content>
+     <tabTrigger>moveSU</tabTrigger>
+     <description>向上滚动</description>
+     <scope></scope>
+</snippet>

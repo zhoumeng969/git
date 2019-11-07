@@ -1,0 +1,177 @@
+{
+	"9o.hist.D:\\golang\\src":
+	[
+		"bee new test123",
+		"bee new beego yes",
+		"bee new beego",
+		"bee hprose myhprose",
+		"bee api myapi"
+	],
+	"9o.hist.D:\\golang\\src\\bee":
+	[
+		"bee  version",
+		"cd ..",
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\beego":
+	[
+		"goimports",
+		"go install",
+		"bee run",
+		"cd .."
+	],
+	"9o.hist.D:\\golang\\src\\beego\\routers":
+	[
+		"cd .."
+	],
+	"9o.hist.D:\\golang\\src\\c1":
+	[
+		"go run c1",
+		"go run main",
+		"go run main.go",
+		"go run",
+		"go build",
+		"run"
+	],
+	"9o.hist.D:\\golang\\src\\github.com\\gogits\\gogs":
+	[
+		"go install -tags \"sqlite pam\""
+	],
+	"9o.hist.D:\\golang\\src\\github.com\\smartystreets\\goconvey":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\go-bindata":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\go-bindata\\go-bindata":
+	[
+		"go install",
+		"go version"
+	],
+	"9o.hist.D:\\golang\\src\\go.tools\\imports":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\gocode":
+	[
+		"go install",
+		"go install  -ldflags \"-s -w\""
+	],
+	"9o.hist.D:\\golang\\src\\golang.org\\x\\tools":
+	[
+		"go build"
+	],
+	"9o.hist.D:\\golang\\src\\golang.org\\x\\tools\\cmd\\goimports":
+	[
+		"go install",
+		"go install  -ldflags \"-s -w\""
+	],
+	"9o.hist.D:\\golang\\src\\golang.org\\x\\tools\\godoc":
+	[
+		"go install",
+		"cd .."
+	],
+	"9o.hist.D:\\golang\\src\\golang.org\\x\\tools\\imports":
+	[
+		"go install",
+		"go build"
+	],
+	"9o.hist.D:\\golang\\src\\golangGameServer":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\golangGameServer\\client":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\hprose":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\hprose\\models":
+	[
+		"go test",
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\macaron":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\margo":
+	[
+		"go build"
+	],
+	"9o.hist.D:\\golang\\src\\myhprose":
+	[
+		"go build -ldflags \"-s -w\"",
+		"echo %GS_GOPATH%",
+		"echo GS_GOPATH",
+		"echo PATH",
+		"echo %PATH%",
+		"go env",
+		"go version",
+		"go doc fmt",
+		"go install",
+		"go install  -ldflags \"-s -w\""
+	],
+	"9o.hist.D:\\golang\\src\\myhprose\\models":
+	[
+		"cd ../..",
+		"GoSublime r14.12.06-1 9o: type `help` for help and command documentation\n\n[ `go version` | done: 29.0906ms ]\n  go version go1.5.1 windows/amd64\n[ D:/golang/src/myhprose/models/ ] # \n[ D:/golang/src/myhprose/models/ ] # go instll",
+		"GoSublime r14.12.06-1 9o: type `help` for help and command documentation",
+		"go install",
+		"go build",
+		"go vet",
+		"go version"
+	],
+	"9o.hist.D:\\golang\\src\\websocket-golang-chat":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang_all\\src\\bee":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang_all\\src\\github.com\\rogpeppe\\godef":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang_all\\src\\gocode":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang_all\\src\\godef":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang_all\\src\\golang.org\\x\\tools\\cmd\\goimports":
+	[
+		"go version",
+		"go install"
+	],
+	"9o.hist.D:\\golang_all\\src\\golang.org\\x\\tools\\godoc":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang_all\\src\\golang.org\\x\\tools\\imports":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang_test\\src\\client":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang_test\\src\\example":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang_test\\src\\server":
+	[
+		"go install"
+	],
+	"ann": "a16.03.22-1",
+	"install_version": "r16.03.22-1",
+	"version": "r16.03.22-1"
+}

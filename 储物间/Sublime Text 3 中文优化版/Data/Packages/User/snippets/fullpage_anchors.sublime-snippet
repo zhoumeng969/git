@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[anchors]]>
+     </content>
+     <tabTrigger>anchors</tabTrigger>
+     <description>定义锚点链接</description>
+     <scope></scope>
+</snippet>

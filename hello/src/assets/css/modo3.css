@@ -1,0 +1,35 @@
+#app .modo3 {
+    width: 95%;
+    height: 280px;
+    border:1px solid black; 
+    margin: 0 auto;
+    text-decoration: none;
+  }
+#app .modo3 .modo3-p1 {
+    font-weight: 700;
+    font-family: arial;
+  }
+
+#app .modo3 .van-tab.van-tab--active {
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    height: 45px;
+    background-color: #456a9b;
+    color: #fff;
+    border-radius: 50px;
+    margin: 10 0px;
+    font-weight: 700;
+  }
+
+#app .modo3 .van-tabs__line {
+    width: 0;
+    height: 0;
+    transform: translateX(0px) translateX(0);
+  }
+#app .modo3 .van-tab__pane > ul > li {
+    list-style-type: disc;
+    font-size: 12px;
+    text-indent: 2em;
+  }
+  

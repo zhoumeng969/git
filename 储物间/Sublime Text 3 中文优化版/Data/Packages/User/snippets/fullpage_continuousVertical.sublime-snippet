@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[continuousVertical]]>
+     </content>
+     <tabTrigger>continuousVertical</tabTrigger>
+     <description>是否循环滚动</description>
+     <scope></scope>
+</snippet>

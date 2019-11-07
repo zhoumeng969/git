@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[placeholder="${1:请输入内容}"]]>
+     </content>
+     <tabTrigger>pla</tabTrigger>
+     <description>提示文本占位符</description>
+     <scope></scope>
+</snippet>

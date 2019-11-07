@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+    <script type="x/template" id="template1">
+        <div>
+            hello words{{id}}
+        </div>
+    </script>
+</head>
+<body>  
+    <div id="demo" >
+        <div v-bind:class="{vue:id}"></div> <!--html模板的缺陷是只能解析字符串-->
+        {{message}}
+        <div v-html="message"></div><!--html模板-->
+    </div>
+    <script> 
+        var vue = new Vue({
+            el : "#demo",
+            data:{
+                message : "<div>hello word{{id}}</div>",
+                id : "true"
+            },
+        //     template:`<div>hello word{{id}}</div>` template是字符串模板的关键字 优点是自动生成节点包裹元素，并且能够解析{{}}语法,并且可以覆盖掉html模板
+        //     es6语法提供一个支持换行的新语法 ``
+        // template : "#template1",
+        render(creatElement){       //render函数是相较于html/字符串模板更底层的语法
+            var dom = creatElement("div",{
+                attrs:{             //模拟v-bith语法
+                    id : "1"
+                },
+                class : {           //模拟v-bith语法
+                    vue1 : true,
+                    vue2 : false    //用js模拟v-if/v-show语法
+                },
+                domProps:{          //优先级最高
+                    innerHTML:"<div>html</div>"
+                },
+            },["hello",creatElement("p",["word"])]);
+            return dom //return函数
+        }
+    })  
+    </script> 
+        
+</body>
+</html> 

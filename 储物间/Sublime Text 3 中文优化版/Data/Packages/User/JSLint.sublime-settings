@@ -1,0 +1,111 @@
+{
+    // an array of options to pass to jslint.
+    "options" : [
+
+        // examples using predef flag.
+        "--predef", "['angular', 'document', '\\$', '_', 'JQuery', 'FB']"
+        // tolerate missing 'use strict' pragma.
+        ,"--sloppy"
+        // suggest an indent level of two spaces.
+        ,"--indent", "4"
+        // assume node.js to predefine node globals.
+        ,"--node"
+        // tolerate unfiltered for in.
+        //,"--forin"
+        // tolerate dangling _ in identifiers.
+        ,"--nomen"
+        // tolerate many var statements per function.
+        ,"--vars"
+        // tolerate ++ and --.
+        ,"--plusplus"
+        // tolerate Douglas Crockford.
+        ,"--stupid"
+        ,"--todo"
+
+    ]
+
+    // if true, run jslint on save.
+    ,"run_on_save" : true
+
+    // a regex string to determine whether jslint
+    // should be run on a file.
+    // if a match is found (i.e. re.search(filename_filter, filename)),
+    // the file will be linted.
+    ,"filename_filter": "(\\.js|\\.json|\\.html|\\.sass|\\.less|\\.html)$",
+
+
+    // jslint command you want to run as an array of strings.
+    // E.g.: ["jslint"] or ["/usr/local/bin/jslint"] or ["node", "mylinter.js"]
+    // Default is
+    //    * Linux: ["node", "~/.config/sublime-text-2/Packages/JSLint/linter.js"]
+    //    * Mac: ["node", "~/Library/Application Support/Sublime Text 2/Packages/JSLint/linter.js"]
+    //    * Windows: ["node", "%APPDATA%/Sublime Text 2/Packages/JSLint/linter.js"]
+
+    // ,"jslint" : ["jslint"]
+
+
+    // if your own personal choice of jslint has an output
+    // different from the standard which comes with this package,
+    // you may have to change line_regex and file_regex
+    // check http://docs.sublimetext.info/en/latest/reference/build_systems.html
+    // to find out how these regular expressions work. The defaults are:
+
+    // ,"line_regex" : ".*// Line ([0-9]*), Pos ([0-9]*)$"
+    // ,"file_regex" : "(^[^# ]+.*$)"
+
+
+    "sublimelinter": "save-only",
+    "sublimelinter_popup_errors_on_save": true,
+    "sublimelinter_executable_map": {
+        "javascript": "D:/Program Files/nodejs/node.exe",
+        "css": "D:/Program Files/nodejs/node.exe"
+    },
+    "jshint_options": {
+        "strict": false,
+        "quotmark": "single", //只能使用单引号
+        "noarg": true,
+        "noempty": true, //不允许使用空语句块{}
+        "eqeqeq": true, //!==和===检查
+        "undef": true,
+        "curly": true, //值为true时，不能省略循环和条件语句后的大括号
+        "forin": true, //for in hasOwnPropery检查
+        "devel": true,
+        "jquery": true,
+        "browser": true,
+        "wsh": true,
+        "evil": true,
+        "unused": "vars", //形参和变量未使用检查
+        "latedef": true, //先定义变量，后使用
+        "globals": {
+            "grunt": true,
+            "module": true,
+            "window": true,
+            "jQuery": true,
+            "$": true,
+            "global": true,
+            "document": true,
+            "console": true,
+            "setTimeout": true,
+            "setInterval": true
+        }
+    },
+    "csslint_options": {
+        "adjoining-classes": false,
+        "box-sizing": false,
+        "box-model": false,
+        "compatible-vendor-prefixes": false,
+        "floats": false,
+        "font-sizes": false,
+        "gradients": false,
+        "important": false,
+        "known-properties": false,
+        "outline-none": false,
+        "qualified-headings": false,
+        "regex-selectors": false,
+        "shorthand": false,
+        "text-indent": false,
+        "unique-headings": false,
+        "universal-selector": false,
+        "unqualified-attributes": false
+    }
+}

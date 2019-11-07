@@ -1,0 +1,15 @@
+{
+    "html5": {
+        "syntax": "Packages/HTML/HTML.tmLanguage",
+        "extension": "html"
+    },
+     "wap": {
+        "syntax": "Packages/HTML/HTML.tmLanguage",
+        "extension": "html"
+    },
+    "attr": {
+        "author": "Marte" ,
+        "email": "iqianduan@126.com",
+        "link": "http://www.iqianduan.cn"
+    }
+}

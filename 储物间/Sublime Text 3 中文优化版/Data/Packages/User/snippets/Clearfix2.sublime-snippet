@@ -1,0 +1,13 @@
+<snippet>
+     <content>
+     <![CDATA[
+.clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
+.clearfix { display: inline-block; }
+html[xmlns] .clearfix { display: block; }
+* html .clearfix { height: 1%; }
+     ]]>
+     </content>
+     <tabTrigger>clear2</tabTrigger>
+     <description>清浮动</description>
+     <scope></scope>
+</snippet>

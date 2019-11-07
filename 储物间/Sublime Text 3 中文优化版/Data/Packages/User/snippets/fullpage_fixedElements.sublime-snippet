@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[fixedElements]]>
+     </content>
+     <tabTrigger>fixedElements</tabTrigger>
+     <description>绑定固定导航的元素</description>
+     <scope></scope>
+</snippet>

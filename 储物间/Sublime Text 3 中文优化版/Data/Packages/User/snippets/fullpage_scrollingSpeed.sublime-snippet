@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[scrollingSpeed:1000]]>
+     </content>
+     <tabTrigger>spd</tabTrigger>
+     <description>fullpage滚屏花费时间</description>
+     <scope></scope>
+</snippet>

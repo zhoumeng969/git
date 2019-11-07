@@ -1,0 +1,69 @@
+[
+	{ "keys": ["alt+/"], "command": "auto_complete" },
+	{ "keys": ["alt+/"], "command": "replace_completion_with_auto_complete", "context":
+		[
+			{ "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": false },
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	},
+    // HTML, XML close tag
+    { "keys": ["/"], "command": "close_tag", "args": { "insert_slash": true }, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "(text.html, text.xml) - string - comment", "match_all": true },
+            { "key": "preceding_text", "operator": "regex_match", "operand": ".*<$", "match_all": true },
+            { "key": "setting.auto_close_tags" }
+        ]
+    },
+    { "keys": ["f1"], "command": "goto_documentation" },
+    { "keys": ["alt+ctrl+shift+e"], "command": "shell_prompt" },
+    { "keys": ["ctrl+shift+n"], "command": "text_pastry_show_command_line", "args": { "text": "" } },
+    // { "keys": ["ctrl+alt+shift+c"], "command": "color_pick" }
+    //
+
+    { "keys": ["ctrl+shift+alt+]"], "command": "compact_expand_css", "args": { "action": "expand" }  },
+    { "keys": ["ctrl+shift+alt+["], "command": "compact_expand_css", "args": { "action": "compact" } },
+    //
+    { "keys": ["ctrl+alt+enter"], "command": "open_in_browser" },//设置默认浏览器打开快捷键
+    { "keys": ["f12"], "command": "open_in_browser" },//设置默认浏览器打开快捷键
+
+        // chrome
+    { "keys": ["f1"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+                "extensions":".*"
+            }
+     },
+
+    // firefox
+    { "keys": ["f2"], "command": "side_bar_files_open_with",
+             "args": {
+                "paths": [],
+                "application": "C:/Program Files (x86)/Mozilla Firefox/firefox.exe",
+                "extensions":".*"
+            }
+    },
+
+    // ie
+     { "keys": ["f3"], "command": "side_bar_files_open_with",
+             "args": {
+                "paths": [],
+                "application": "C:/Program Files/Internet Explorer/iexplore.exe",
+                "extensions":".*"
+            }
+    },
+    //调色板
+    { "keys": ["f4"], "command": "color_pick"},
+    { "keys": ["ctrl+alt+k"], "command": "trimmer" },
+
+    //js_format格式化
+    {
+        "keys": ["ctrl+alt+shift+f"], "command": "js_format",
+        "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}]
+    },
+
+    { "keys": ["ctrl+shift+alt+c"], "command": "convert_to_utf8", "args": {"encoding": "GBK", "stamp": "0" } },
+    //新建HTML5模板
+    { "keys": ["ctrl+shift+c"],"command": "sublime_tmpl","args": {"type": "html5"}},
+]

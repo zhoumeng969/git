@@ -1,0 +1,17 @@
+<snippet>
+     <content>
+     <![CDATA[
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    border:0;
+}
+ol, ul ,li{list-style: none;} 
+]]>
+     </content>
+     <tabTrigger>*</tabTrigger>
+     <description>清除默认样式</description>
+     <scope></scope>
+</snippet>

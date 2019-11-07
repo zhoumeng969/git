@@ -1,0 +1,16 @@
+{
+    // "cmd": ["H:/webserver/php/php.exe","${file}"],
+    // "cmd": ["node","${file}"],
+    "shell_cmd": "node \"$file\"",
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "${file_path}",
+	"selector": "source.js",
+    "shell":true,
+    "encoding":"utf-8",
+    "windows":{
+        "cmd":["taskkill /f /im node.exe >nul 2>nul & node","$file"]
+    },
+    "linux":{
+        "cmd":["killall node; node","$file"]
+    }
+}

@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[loopBottom]]>
+     </content>
+     <tabTrigger>loopBottom</tabTrigger>
+     <description>滚动到最底部后是否滚回顶部</description>
+     <scope></scope>
+</snippet>

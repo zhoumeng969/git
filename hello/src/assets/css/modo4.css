@@ -1,0 +1,78 @@
+#app .modo4 {
+    width: 95%;
+    height: 350px;
+    border:1px solid black;
+    margin: 0 auto;
+  }
+
+#app .modo4 .modo4-p1 {
+    font-weight: 700;
+    font-family: arial;
+  }
+
+
+
+#app .modo4 .van-stepper1,
+#app .modo4 .van-stepper2,
+#app .modo4 .van-stepper3,
+#app .modo4 .van-stepper4 {
+  position: relative;
+  width: 95%;
+  height: 50px;
+} 
+
+#app .modo4 .van-stepper {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+  } 
+#app .modo4 .van-stepper__minus::before {
+    width: 13px;
+    height: 2px;
+    border-radius: 50px;
+    background-color: #578de2;
+  }
+
+#app .modo4 .van-stepper__plus::after {
+    width: 2px;
+    height: 13px;
+    border-radius: 50px;
+    background-color: #578de2;
+  }
+
+#app .modo4 .van-stepper__plus::before {
+    width: 13px;
+    height: 2px;
+    border-radius: 50px;
+    background-color: #578de2;
+  }
+#app .modo4 .van-stepper__minus {
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    border: 2px solid #578de2;
+    font-size: 20px;
+  }
+
+#app .modo4 .van-stepper__plus {
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    border: 2px solid #2a5caa;
+  }
+
+#app .modo4 .van-stepper__input {
+    color: #000;
+    font-size: 20px;
+  }
+
+ #modo4-button {
+    background-color: #fff;
+    color: #337ab7;
+    border: none;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    position: relative;
+  }

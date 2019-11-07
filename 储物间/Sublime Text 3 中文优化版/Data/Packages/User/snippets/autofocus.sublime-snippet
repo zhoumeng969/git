@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[autofocus="${1:autofocus}"]]>
+     </content>
+     <tabTrigger>autofocus</tabTrigger>
+     <description>自动获得焦点</description>
+     <scope></scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+     <content>
+     <![CDATA[
+a:link { color: blue; }
+a:visited { color: purple; }
+a:hover { color: red; }
+a:active { color: yellow; }
+     ]]>
+     </content>
+     <tabTrigger>weilei</tabTrigger>
+     <description>伪类</description>
+     <scope></scope>
+</snippet>

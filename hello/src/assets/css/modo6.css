@@ -1,0 +1,36 @@
+.modo6 {
+    width: 95%;
+    height: 250px;
+    border: 1px solid black;
+    margin: 0 auto;
+  }
+.modo6-p1 {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    padding-top: 25px;
+    font-weight: 600;
+  }
+  #app .modo6 > h4 {
+    display: inline-block;
+    height: 20px;
+    margin: 0;
+    padding: 0;
+    padding-top: 8px;
+    font-weight: 800;
+  }
+  .modo6-p2,
+  .modo6-p3 {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    padding-top: 8px;
+  }
+  .modo6-input1{
+    width:95%;
+    height:35px;
+    border-radius: 250px;
+    background-color: #2a5caa;
+    color: #fff;
+    border: 0;
+  }

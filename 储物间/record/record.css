@@ -1,0 +1,97 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    margin:0;
+    padding:0;
+    color:#000;
+}
+
+.peag-top{
+    width:100%;
+    height:30px;
+    background-color:rgb(212, 75, 20);
+}
+
+.peag-top .peag-content{
+    position: relative;
+    left:30%;
+}
+
+.peag-top .peag-content h2{
+    color:#fff;
+}
+
+.main{
+    height:500px;
+    width:100%;
+}
+
+.main .big-title{
+    display: inline-block;
+    width:100px;
+    height:20px;
+    position: absolute;
+    top:30px;
+    left: 30%;
+}
+
+.main .task-input{
+    display: inline-block;
+    width:500px;
+    height:30px;
+    position: absolute;
+    left: 30%;
+    top:50px;
+    border:1px solid black;
+    margin-top:10px;
+}
+
+.main .test-count {
+    display: inline-block;
+    width:100%;
+    height:20px;  
+    /* border:1px solid black; */
+    position:absolute;
+    top:100px;
+}
+
+.main .test-count .action-l{
+    display: inline-block;
+    color: rgb(240, 8, 8);
+    position:absolute;
+    left: 30%;
+    font-size: 12px;
+}
+
+.main .test-count .action{
+    position: absolute;
+    right: 30%;
+    /* top: -2px; */
+    font-size: 12px;
+}
+
+.main .big-title1{
+    display: inline-block;
+    width:100px;
+    height:20px;
+    position: absolute;
+    top:130px;
+    left: 30%;
+}
+
+.main .tasks{
+    width:100%;
+    height:200px;
+    position: absolute;
+    top:180px;
+}
+
+.main .tasks .no-task-tip{
+    display: inline-block;
+    width:500px;
+    height:30px;
+    background-color: cornsilk;
+    position: absolute;
+    top:0;
+    left: 30%;
+}

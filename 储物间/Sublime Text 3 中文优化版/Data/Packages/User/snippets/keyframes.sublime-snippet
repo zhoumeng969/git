@@ -1,0 +1,13 @@
+<snippet>
+     <content>
+     <![CDATA[@-webkit-keyframes run{
+            from{
+            }
+            to{
+            }
+        }]]>
+     </content>
+     <tabTrigger>key</tabTrigger>
+     <description></description>
+     <scope></scope>
+</snippet>

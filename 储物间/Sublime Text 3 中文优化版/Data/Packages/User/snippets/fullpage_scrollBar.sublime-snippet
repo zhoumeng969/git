@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[scrollBar]]>
+     </content>
+     <tabTrigger>scrollBar</tabTrigger>
+     <description>是否显示浏览器自带的滚动条</description>
+     <scope></scope>
+</snippet>

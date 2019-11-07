@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[navigationTooltips:['']]]>
+     </content>
+     <tabTrigger>navigationTooltips</tabTrigger>
+     <description>项目导航tip标签提示</description>
+     <scope></scope>
+</snippet>

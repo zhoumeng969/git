@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[verticalCentered]]>
+     </content>
+     <tabTrigger>ver</tabTrigger>
+     <description>fullpage内容是否垂直居中</description>
+     <scope></scope>
+</snippet>

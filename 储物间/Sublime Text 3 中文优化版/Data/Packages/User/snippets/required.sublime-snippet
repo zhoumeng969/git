@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[required="${1:required}"]]>
+     </content>
+     <tabTrigger>req</tabTrigger>
+     <description>required表单内容不能为空</description>
+     <scope></scope>
+</snippet>

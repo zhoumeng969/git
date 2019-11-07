@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[controlArrowColor]]>
+     </content>
+     <tabTrigger>ArrowColor</tabTrigger>
+     <description>左右滑块的箭头的背景颜色</description>
+     <scope></scope>
+</snippet>

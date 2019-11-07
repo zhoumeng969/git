@@ -1,0 +1,12 @@
+<snippet>
+     <content>
+     <![CDATA[
+<!--[if lte IE 8]>
+    ${1:IE8及其以下的版本可见}
+<![endif]-->
+     ]]>
+     </content>
+     <tabTrigger>ie8</tabTrigger>
+     <description>IE8及其以下的版本可见</description>
+     <scope></scope>
+</snippet>

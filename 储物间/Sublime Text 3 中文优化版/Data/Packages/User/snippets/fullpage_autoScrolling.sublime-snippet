@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[autoScrolling]]>
+     </content>
+     <tabTrigger>autoScrolling</tabTrigger>
+     <description>true使用插件滚动方式-false浏览器自带</description>
+     <scope></scope>
+</snippet>

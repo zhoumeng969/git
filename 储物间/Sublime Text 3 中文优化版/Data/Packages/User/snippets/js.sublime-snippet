@@ -1,0 +1,10 @@
+<snippet>
+     <content>
+<![CDATA[<script type="text/javascript">
+     ${1:}
+</script>]]>
+     </content>
+     <tabTrigger>js</tabTrigger>
+     <description>js</description>
+     <scope></scope>
+</snippet>

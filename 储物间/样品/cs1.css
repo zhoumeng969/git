@@ -1,0 +1,312 @@
+*{
+	margin:0;
+	padding:0;
+	list-style: none;
+	text-decoration: none;
+	color:#f0f0f0;
+	font-family:arial;
+}
+
+
+
+html,body{
+	width:100%;
+	height:100%;
+}
+.home{
+	width:100%;
+	height:100%;
+	background-image:url("beijin.jpg");
+	background-size: 100% 100%;
+	border:1px solid black;
+	position:relative;
+}
+
+.home .sea{
+	width:800px;
+	height:60px;
+	/*border:1px solid black;*/
+	position:absolute;
+	left:200px;
+}
+
+.home .nav{
+	width:800px;
+	height:30px;
+	/*border:1px solid black;*/
+	position:absolute;
+	top:80px;
+	left:200px;
+}
+
+.home .pic{
+	width:800px;
+	height:200px;
+	/*border:1px solid black;*/
+	position:absolute;
+	top:120px;
+	left:200px;
+}
+
+.home .show-center{
+	width:800px;
+	height:200px;
+	/*border:1px solid black;*/	
+	position:absolute;
+	top:325px;
+	left:200px;
+}
+
+.home .sea .sea-left{
+	width:220px;
+	height:60px;
+	background-image:url("logo.jpg");
+	background-size:100%,100%;
+	/*border: 1px solid black;*/
+	margin-top:5px;
+}
+
+.home .sea .sea-right{
+	width:200px;
+	height:60px;
+	/*border: 1px solid black;*/
+	position:absolute;
+	right:0;
+	top:0;
+}
+.home .sea .sea-right form p input{
+	width:200px;
+	height:20px;
+	/*border: 1px solid black;*/
+	position:absolute;
+	top:15px;
+	border-radius:10px;
+	background-color: #050506;
+	opacity:0.5;
+}
+
+/*.home .sea .sea-right form p .sea-right-l{
+	display: inline-block;
+	width:15px;
+	height:15px;
+	/*border: 1px solid black;*/
+	background-image:url("QQ图片20191019130748.png");
+	background-size:14px 16px;
+	position:absolute;
+	top:20px;
+	background-color:#fdfcfd;
+	opacity:0.3;
+}*/
+
+.home .nav ul{
+	display: inline-block;
+}
+
+.home .nav ul li{
+	display: inline-block;
+	width: 133.3px;
+	height:29px;
+	float:left;
+	/*border: 1px solid black;*/
+	background-color:#302b31;
+	text-align: center;
+	line-height: 29px;
+}
+
+.home .nav ul li:hover{
+	background-color: #d9b46d;
+}
+
+.home .pic{
+	background-image:url("07f9dd273b3ea00bbd9bb63217f45a37.jpg");
+	background-size: 100% 100%;
+}
+
+.home .show-center .show-center-left{
+	width:260px;
+	height: 200px;
+	/*border: 1px solid black;*/
+	position: absolute;
+	top:10px;
+	left:0;
+}
+
+.home .show-center .show-center-left .show-center-left-p1{
+	font-size: 16px;
+	display: inline-block;
+	width:260px;
+	height:10px;
+	text-indent:0.5em;
+	line-height: 20px;
+}
+.home .show-center .show-center-left .show-center-left-p2{
+	font-size: 12px;
+	display: inline-block;
+	width:260px;
+	height:10px;
+	text-indent:0.5em;
+}
+
+.home .show-center .show-center-left .show-center-left-p3,.show-center-left-p4,.show-center-left-p5{
+	font-size:8px;
+}
+
+.home .show-center .show-center-left form input{
+	display: inline-block;
+	width:100px;
+	height:25px;
+	border-radius: 15px;
+	background-color: #3A5FCD;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 25px;
+	position: absolute;
+	left: 50px;
+	border:0;
+}
+.home .show-center .show-center-center{
+	width:260px;
+	height:200px;
+	border: 1px solid black;
+	position: absolute;
+	top:0;
+	left:269px;
+	
+}
+
+
+.home .show-center .show-center-center .show-center-center-top{
+	width:255px;
+	height:95px;
+	border: 5px solid #ffffff;
+	background-image: url("16b8ec46373d012bf31a8899556559e3.jpg");
+}
+.home .show-center .show-center-center .show-center-center-bottom{
+	width:255px;
+	height:95px;
+	border: 5px solid #ffffff;
+	background-image: url("ab1b8657aa410fc8604aeb067224b2ed.jpg");
+}
+
+
+.home .show-center .show-center-right{
+	width:260px;
+	height: 200px;
+	/*border: 1px solid black;*/
+	position: absolute;
+	top:5px;
+	right:-5px;
+}
+
+
+.home .show-center .show-center-right .show-center-rightp1{
+	color: #f6720e;
+	font-size: 16px
+}
+.home .show-center .show-center-right .show-center-rightp2{
+	color: #ffffff;
+	font-size: 8px;
+}
+.home .show-center .show-center-right .show-center-rightp3{
+	color: #f6720e;
+	font-size: 16px
+}
+.home .show-center .show-center-right .show-center-rightp4{
+	color: #ffffff;
+	font-size: 8px;
+}
+
+.home .bottom{
+	width: 1500px;
+	height: 100px;
+	background-color: #c57926;
+	/*border:1px solid black;*/
+	position: absolute;
+	top: 550px;
+
+}
+.home .bottom .show-bottom{
+	width:800px;
+	height:100px;
+	/*border:1px solid black;*/
+	position:absolute;
+	left:200px;
+	top:0px;
+}
+
+.home .bottom .show-bottom .show-bottomp1{
+	width:180px;
+	height:60px;
+	/*border:1px solid black;*/
+	float:left;	
+}
+.home .bottom .show-bottom .show-bottomp1 .show-bottomp1-p1,
+.home .bottom .show-bottom .show-bottomp2 .show-bottomp2-p1,
+.home .bottom .show-bottom .show-bottomp3 .show-bottomp3-p1,
+.home .bottom .show-bottom .show-bottomp4 .show-bottomp4-p1{
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.home .bottom .show-bottom .show-bottomp1 .show-bottomp1-p2,
+.home .bottom .show-bottom .show-bottomp1 .show-bottomp1-p3,
+.home .bottom .show-bottom .show-bottomp2 .show-bottomp2-p2,
+.home .bottom .show-bottom .show-bottomp2 .show-bottomp2-p3,
+.home .bottom .show-bottom .show-bottomp2 .show-bottomp2-p4,
+.home .bottom .show-bottom .show-bottomp3 .show-bottomp3-p2,
+.home .bottom .show-bottom .show-bottomp3 .show-bottomp3-p3,
+.home .bottom .show-bottom .show-bottomp3 .show-bottomp3-p4,
+.home .bottom .show-bottom .show-bottomp4 .show-bottomp4-p2,
+.home .bottom .show-bottom .show-bottomp4 .show-bottomp4-p3{
+	font-size: 8px;
+	text-align: center;
+}
+
+
+
+
+
+.home .bottom .show-bottom .show-bottomp2{
+	width:180px;
+	height:60px;
+	/*border:1px solid black;*/
+	float:left;
+}
+
+.home .bottom .show-bottom .show-bottomp3{
+	width:180px;
+	height:60px;
+	/*border:1px solid black;*/
+	float:left;
+}
+.home .bottom .show-bottom .show-bottomp4{
+	width:180px;
+	height:60px;
+	/*border:1px solid black;*/
+	float:left;
+}
+
+.home .bottom .show-bottom .show-bottomp5{
+	width:540px;
+	height: 40px;
+	float:left;
+	/*border:1px solid black;*/
+}
+
+.home .bottom .show-bottom .show-bottomp5 .show-bottomp5-p1{
+	font-size: 10px;
+	text-align: center;
+	line-height: 20px;
+}
+.home .bottom .show-bottom .show-bottomimg{
+	width: 100px;
+	height: 100px;
+	/*border:1px solid black;*/
+	position: absolute;
+	right:0;
+	top: 0;
+	background-image: url("c5d3bfdcd336f278e3ca9780f841e1c4.jpg");
+	background-size: 100px 100px;
+}

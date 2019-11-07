@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[navigation]]>
+     </content>
+     <tabTrigger>navigation</tabTrigger>
+     <description>是否显示侧边项目小圆点导航</description>
+     <scope></scope>
+</snippet>

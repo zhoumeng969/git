@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[slidesNavigation]]>
+     </content>
+     <tabTrigger>slideNav</tabTrigger>
+     <description>是否显示轮播图的项目导航</description>
+     <scope></scope>
+</snippet>

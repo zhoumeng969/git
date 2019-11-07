@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[loopHorizontal]]>
+     </content>
+     <tabTrigger>loopH</tabTrigger>
+     <description>左右滑块是否循环滑动</description>
+     <scope></scope>
+</snippet>

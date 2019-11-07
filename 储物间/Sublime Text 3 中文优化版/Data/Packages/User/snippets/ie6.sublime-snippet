@@ -1,0 +1,12 @@
+<snippet>
+     <content>
+     <![CDATA[
+<!--[if lte IE 6]>
+    ${1:IE6及其以下版本可见}
+<![endif]-->
+     ]]>
+     </content>
+     <tabTrigger>ie6</tabTrigger>
+     <description>IE判断</description>
+     <scope></scope>
+</snippet>

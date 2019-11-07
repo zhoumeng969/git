@@ -1,0 +1,175 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "md5",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "md5"
+			},
+			"key": "1bc29b36f623ba82aaf6724fd3b16718",
+			"label": "md5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": ""
+				},
+				"command": "text_pastry_date_range",
+				"text": "day"
+			},
+			"key": "628b7db04235f228d40adc671413a8c8",
+			"label": "day"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "-"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter -"
+			},
+			"key": "d9684d48b994ed05714937bd70dafdd1",
+			"label": "filter -"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": ""
+				},
+				"command": "text_pastry_date_range",
+				"text": "days"
+			},
+			"key": "44fdec47036f482b68b748f9d786801b",
+			"label": "days"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "5",
+					"text": ""
+				},
+				"command": "text_pastry_date_range",
+				"text": "days x5"
+			},
+			"key": "7929f17a96797adfe71aad1762e112bc",
+			"label": "days x5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"step_size": "month",
+					"text": ""
+				},
+				"command": "text_pastry_date_range",
+				"text": "months"
+			},
+			"key": "da36cfaf48b9e19896e23e1207040d1e",
+			"label": "months"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 2 1"
+				},
+				"command": "text_pastry_step",
+				"text": "1 2 1"
+			},
+			"key": "6e0cf250d7d498ea80ffc2d2aad74ab8",
+			"label": "1 2 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 2 5"
+				},
+				"command": "text_pastry_step",
+				"text": "1 2 5"
+			},
+			"key": "93d2cbab367a2d7250068360d39cdf94",
+			"label": "1 2 5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i"
+			},
+			"key": "1bd7ee1ce72751da4e64129f6d32db41",
+			"label": "\\i"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 2"
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 2"
+			},
+			"key": "bed4ce69bb178ee0474acea7c3188868",
+			"label": "1 1 2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"stop": "2"
+				},
+				"command": "text_pastry_range",
+				"text": "range 2"
+			},
+			"key": "3a7d910a1f9af0c965c93a249c7dc552",
+			"label": "range 2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"stop": "1"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1"
+			},
+			"key": "8901b4fef0730f41bca3fa0d31f4eb2f",
+			"label": "range 1"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"stop": "1"
+		},
+		"command": "text_pastry_range",
+		"text": "range 1"
+	}
+}

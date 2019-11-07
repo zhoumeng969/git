@@ -1,0 +1,30 @@
+<!-- <snippet>
+    <content><![CDATA[Hello, ${1:this} is a ${2:snippet}.]]></content>
+    Optional: Set a tabTrigger to define how to trigger the snippet
+    <tabTrigger>hello</tabTrigger>
+    Optional: Set a scope to limit where the snippet will trigger
+    <scope>source.python</scope>
+</snippet> -->
+<!-- <snippet>
+    <content><![CDATA[ 你需要插入的代码片段${1:name} ]]></content>
+    可选：快捷键，利用Tab自动补全代码的功能
+    <tabTrigger>xyzzy</tabTrigger>
+    可选：使用范围，不填写代表对所有文件有效。附：source.css和test.html分别对应不同文件。
+    <scope>source.python</scope>
+    可选：在snippet菜单中的显示说明（支持中文）。如果不定义，菜单则显示当前文件的文件名。
+    <description>My Fancy Snippet</description>
+
+</snippet> -->
+<snippet>
+     <content>
+     <![CDATA[
+     <footer>
+          <p>Copyright © 2008-2012 ${1:bluesdream}.com</p>
+          <p>增值电信业务经营许可证 沪B2-${2} <a href="#">沪ICP备号${3}</a></p>
+     </footer>
+     ]]>
+     </content>
+     <tabTrigger>cft</tabTrigger>
+     <description>自定义-footer</description>
+     <scope>text.html</scope>
+</snippet>

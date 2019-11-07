@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+
+		// 1.输入数字倒序输出汉语
+		// function reverse (){
+		// 	var num = window.prompt('input');
+		// 	var str = "";
+		// 	for(var i = num.length - 1; i >= 0; i --){
+		// 		str += transfer(num[i]);
+		// 	}
+		// 	document.write(str);
+		// }
+		// function transfer(target){
+		// 	switch(target){
+		// 		case "1":
+		// 			return "壹";
+		// 		case "2":
+		// 			return "俩";
+		// 		case "3":
+		// 			return "仨";
+		// 	}
+		// }
+
+
+
+		// 斐波那契数列函数
+		// function fb(n){
+		// if(n == 1 || n == 2){
+		// 	return n = 1;
+		// }
+		// return fb(n - 1) + fb(n - 2);
+		// }
+
+
+
+		// 立即执行函数
+		// (function(){
+		// 	var a = 123;
+		// 	var b = 234;
+		// 	console.log(a + b);
+		// }())
+		// (function(){}());
+		// (function(){})();
+		// var test = function(){}();
+		// + function test (){}();		————加号将函数转换为数字表达式，所以他可以被执行。
+		// 被执行符号执行的表达式会自动放弃函数名
+
+
+
+		// function test(a, b, c, d){
+		// 	console.log(a + b + c + d);
+		// }(1, 2, 3, 4) 由于逗号是数学表达式，所以他不报错，但也不执行。
+
+
+
+
+	// 	这个问题主要是定义位不在执行位，闭包形成后无法及时访问，导致j每次访问的都是i的最后一次defiened值。
+	// function test(){
+	// 	var arr =[];
+	// 	for(var i = 0; i < 10; i ++){
+			
+	// 		(function(j){
+	// 			arr[j] = function(){
+	// 				console.log(j + " ");
+	// 		}
+	// 		}(i))——————以立即执行函数破解闭包
+	// 	}
+	// 	return arr;  --------形成闭包
+	// }
+	// var Arr = test();
+	// for(var j = 0; j < 10; j ++){
+	// 	Arr[j]();			————————访问的都是最后一次defined的值，也即是10
+	// }
+
+
+
+	
+	// var deng={
+	// 	prepareWife : "xiaowang",
+	// 	name : "laodeng",
+	// 	sex : "male",
+	// 	gf : "xiaoliu",
+	// 	wife : "",
+	// 	divorce : function() {
+	// 		delete this.wife;
+	// 		this.gf = this.prepareWife;
+	// 	},
+	// 	getMarried : function(){
+	// 		this.wife = this.gf;
+	// 	},
+	// 	changeGf : function(someone){
+	// 		this.prepareWife = someone;
+	// 	}
+	// }
+
+
+	// 构造函数
+	// function Car (color){
+	// 	this.color = color;
+	// 	this.name = "BMW";
+	// 	this.height = "1400";
+	// 	this.lang = "4900";
+	// 	this.weight = 1000;
+	// 	this.health = 100;
+	// 	this.run = function(){
+	// 		this.health --;
+	// 	}
+	// }
+	// var Car1 = new Car ("red");
+	// var Car2 = new Car ("green");
+
+
+
+		// var str = "sdadasdafsdvxvsdwhoifjia自你哦";
+		// function byteslength(str){
+		// 	var count = str.length;
+		// 	for(var i = 0; i < str.length; i ++){
+		// 		if(str.charCodeAt(i) > 255){
+		// 			count ++;
+		// 		}
+		// 	}
+		// 	return count; 
+		// }
+
+		// var str = "sdadasdafsdvxvsdwhoifjia自你哦";
+		// function byteslength(str){
+		// 	var count = 0;
+		// 	for(var i = 0; i < str.length; i ++){
+		// 		if(str.charCodeAt(i) > 255){
+		// 			count += 2;
+		// 		}else{
+		// 			count ++;
+		// 		}
+		// 	}
+		// 	return count; 
+		// }
+
+
+
+		// 修改this指向的call方法
+		// function Wheel(wheelsize,style){
+		// 	this.wheelsize = wheelsize;
+		// 	this.style = style;
+		// }
+		// function Sit(c , SitColor){
+		// 	this.c = c;
+		// 	this.SitColor = SitColor;
+		// }
+		// function Model(height,width,len){
+		// 	this.height = height;
+		// 	this.width = width;
+		// 	this.len = len;
+		// }
+		// function Car(wheelsize,style,c , SitColor,height,width,len){
+		// 	Wheel.call(this,wheelsize,style);
+		// 	Sit.call(this,c , SitColor);
+		// 	Model.call(this,height,width,len)
+		// }
+		// var car = new Car(100, "花里胡哨", "真皮", "red", 1800,1900, 4900)
+
+
+ 		// 共有模型
+  	// 	Father.prototype.LastName = "Deng";
+  	// 	function Father (){
+
+  	// 	}
+  	// 	function Son(){
+
+  	// 	}
+  	// 	function inherit(Targte, Origin){
+  	// 	Targte.prototype = Origin.prototype; 
+  	// 	}
+  	// 	var son = new Son();
+
+  	// 	缺点是由于两个构造函数共用一个prototype;当其中一个修改了其原型，那么另一个也会修改。		
+
+
+
+
+  // 圣杯模式
+
+	 // function inherit(Target, Origin){
+  // 		function F(){};	//——————————1.
+  // 		F.prototype =  Origin.prototype;
+  // 		Target.prototype = new F();
+  // 		Target.prototype.constuctor = Target;// ---------2.
+  // 		Target.prototype.uber = Origin.prototype;// -------3.
+	 //  }
+	 //  Father.prototype.LastName = "Deng";
+	 //  function Father(){
+	 //  }
+	 //  function Son(){
+	 //  }
+	 //  inherit(Son,Father);
+	 //  var son = new Son();
+	 //  var father = new Father();
+
+		// 1.在共有原型的基础上，通过添加中间层，组建圣杯模式已达到既能继承共有原型的参数，又能防止污染到其他原型。
+		// 2.但这会导致Son的constructor紊乱，无法准确指向自身的构造器，这时需要将其归位.
+		// 3.超类，帮助找到自己最开始的继承对象。
+
+
+
+// 闭包的私有化变量的功能
+	  
+// 	function Deng(name,wife){
+// 		var prepareWife = "xiaozhang";
+// 		this.name = name;
+// 		this.wife = wife;
+// 		this.divorce = function(){
+// 			this.wife = prepareWife;//-----1.
+// 		}
+// 		this.changePrepareWife = function(target){
+// 			prepareWife = target;//-----2.
+// 		}
+// 		this.sayPraprewife = function(){// -------3.
+// 			console.log(prepareWife);
+// 		}
+// 	}
+
+// 	var deng = new Deng("deng", "xiaoliu");
+
+// 	1.2.3.使用了this，调用了Deng的执行期上下文，保存了perparewife的值，并且形成了闭包，也即是说1.调用了perparewife，2.将其赋值为空，只有sayPraprewife才可以打印perparewife的值，包括Deng也不可以。
+
+
+
+// 看不明白
+// 	var  function inherit(function (){
+//   		var f = function(){};
+//   		return function(Target, Origin){
+//   			F.prototype =  Origin.prototype;
+//   			Target.prototype = new F();
+//   			Target.prototype.constuctor = Target;
+//   			Target.prototype.uber = Origin.prototype;
+// 	 	}
+// 	}());
+
+
+
+
+	// 	var name = "bcd"; //利用闭包私有化变量，与外界的同名变量不冲突，并不污染全局变量
+	// var init = (function (){
+	// 	var name = "abc";
+	// 	function callName(){
+	// 		console.log(name);
+	// 	}
+	// 	return function (){
+	// 		callName();     //1.形成闭包
+	// 	}
+	// }())
+ //    init();	//2.调用立即执行函数
+
+
+
+
+ 	//访问对象属性的两种方法:  
+ 	// obj.name 与 obj['name'],前一种方法会在内部转化为后一种方法。
+
+  //       var deng = {
+  //       	wife1 : {name : "xiaoliu"},
+  //       	wife2 : {name : "xiaozhang"},
+  //       	wife3 : {name : "xiaomeng"},
+  //       	wife4 : {name : "xiaowang"},
+  //       	saywife : function(num){
+  //       		return this['wife' + num];
+  //       	}
+  //       }
+
+
+
+
+  // var obj = {
+ 	// 	name : '19',
+ 	// 	age : 1232,
+ 	// 	sex : 'male',
+ 	// 	height : 180,
+ 	// 	weight : 75
+ 	// }
+ 	// // for in 循环(用来遍历对象的)
+ 	// // for(var prop in obj){
+ 	// // 	console.log(prop)
+ 	// // }
+ 	// for(var prop in obj){
+ 	// 	// console.log(obj.prop)  //----->obj['prop']
+ 	// 	console.log(obj[prop])
+ 	// }
+ 	//会触发一个隐含的bug，obj.prop或被转换成obj['prop']最后识别成string类型，并且prop会被当做属性而不是变量
+
+
+
+
+ 	// var obj = {
+ 	// 	name : '19',
+ 	// 	age : 1232,
+ 	// 	sex : 'male',
+ 	// 	height : 180,
+ 	// 	weight : 75,
+ 	// 	__proto__ :{
+ 	// 		LastName : 'deng'
+ 	// 	}
+ 	// }
+
+ 	// for(var prop in obj){
+ 	// 	// console.log(obj[prop]);
+ 	// 	console.log("LastName" in obj); //----in 方法可以判断对象中是否包含该属性，但一个问题in方法会将对象中所以属性都打印出来，而不会判断其是否是自身属性
+ 	// } 
+
+ 	// for(var prop in obj){
+ 	// 	if(obj.hasOwnProperty(prop)){
+ 	// 		console.log(obj[prop]);
+ 	// 	}
+ 	// }
+ 	// obj.hasOwnProperty方法是用来判断对象中是否有不属于自身的属性，例如LastName就是原型上的属性，所以当判断到他时hasOwnProperty方法就会返回一个布尔值。
+
+
+ 	// var num = (function (n){
+ 	// 	if(n == 1){
+ 	// 		return 1;
+ 	// 	}
+ 	// 	return n * arguments.callee(n - 1);
+ 	// }(100))
+ 
+ 	// arguments.callee 方法可以用来找立即执行函数的引用，这样才能调用自身。arguments.callee 方法本意便是找到自身引用。
+
+	// function test (){
+ // 		demo();
+ // 	}
+ // 	function demo(){
+ // 		console.log(demo.caller);
+ // 	}
+ // 	test();
+ // 	caller方法用于展示 目标(demo)
+
+ 
+
+ 	// var foo = 123;
+ 	// function print(){
+ 	// 	this.foo = 234;
+ 	// 	console.log(foo);
+ 	// }
+ 	// new print();
+ 	// new print(); 后 this会指向 Object.create(print.prototype)
+ 	// 不再指向调用函数，那么这时console.log(foo); 便会根据执行期上下文去GO里找
+
+
+
+ 	// 浅层克隆
+ 	// var obj = {
+ 	// 	name : "abc",
+ 	// 	age : 123,
+ 	// 	sex : "female"
+ 	// }
+ 	// var obj1 = {}
+ 	// function clone(origin,target){
+ 	// 	var target = target || {};  //-------容错，防止数据未传入
+ 	// 	for(var prop in origin){    //-------将原始对象用for in 方法调出所有参数
+ 	// 		target[prop] = origin[prop];	//------目标对象参数等于原始对象参数（*注意要用[]不能用.引用。）
+ 	// 	}
+ 	// 	return target;            //--------将目标对象保存出去
+ 	// }
+ 	// clone(obj,obj1);	
+	</script>
+</body>
+</html>

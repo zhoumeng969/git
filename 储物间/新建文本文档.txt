@@ -1,0 +1,6 @@
+  App running at:
+  - Local:   http://localhost:8080/
+  - Network: http://192.168.1.7:8080/
+
+
+wx5dfb8471b241b7a9

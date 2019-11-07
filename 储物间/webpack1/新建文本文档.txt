@@ -1,0 +1,2 @@
+发送文件只需要src 和html，josn js文件给他就好
+公共文件 提取 打包插件 CommonsChunkPlugin

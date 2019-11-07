@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div id = "demo">
+        <span v-show="ifShow" v-if="ifif">{{name}}</span> <!--vue不支持在标签属性上直接用{{}}，但也不报错-->
+        <span v-bind:data="name2" v-bind:class="{calss:ifcalss}"></span> <!--v-bind方法可以将数据直接传到属性里,也可以通过数组绑定多个v-bind:class=[myClass,myClass1]-->
+        <div v-for="itme in m">{{itme.title}}</div>
+        <button v-on:click="click">点击</button>
+        <!-- <input type="text"v-on:keyup.enter="keyup"> -->
+        <input type="text" v-model="value" v-on:keyup="keyup">
+        {{changeName}}  
+    </div>  
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+    <script> 
+        var vm = new Vue({      //vue实例
+            el : "#demo",       //挂载点
+            data:{              //数据绑定
+                name:"LLw",
+                message : "123",
+                name2:"4855",
+                ifcalss:true,  //v-bind:class="{calss:ifcalss}"当值为true时显示calss，为false则反之
+                ifShow:true,   //v-show="ifShow" 当值为true时显示节点，为false则反之，性能类似将display设置成inline-block
+                ifif:false,    //v-if="ifif" 当值为true时显示节点，为false则反之，性能上是将节点彻底删除
+                value:566566,
+                m : [{
+                    title : "10"
+                },{            //v-for="itme in m"类似for in循环，然后用{{itme.}}将其打印在节点上
+                    title : "20"
+                }],
+                          
+            },                 //v-show/v-if性能上的区别是如果频繁显示/隐藏将节点设置成v-show比较合适，但如果一次设定的话，设置成v-if会更合适
+            beforeCreate:function(){
+                console.log("beforeCreate")
+            },                 //钩子函数，在事件后，注入前显示，比before效果要强
+            computed:{         //计算属性computed字段是对象，里面写的是函数
+                changeName:function(){
+                    return "CST"+123
+                }
+            },
+            methods:{           //methods是用来处理函数的字段
+                click : function(){
+                    console.log(1)
+                },
+                keyup : function(){
+                    console.log(this.value)
+                }
+            },                  //v-on:keyup键盘事件 v-on:click鼠标事件
+                                //v-on:keyup.enter="keyup"  .enter特殊修饰符.意思是只有enter键在键盘上抬起来才算触发一次事件
+                                //v-model="value" model事件，可以将value的指定值返回在input框
+        })
+    </script> 
+        
+</body>
+</html> 

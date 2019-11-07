@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[moveTo(section, slide)]]>
+     </content>
+     <tabTrigger>moveTo</tabTrigger>
+     <description>滚动到某section和slide</description>
+     <scope></scope>
+</snippet>

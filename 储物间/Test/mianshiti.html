@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		
+	// 面试题 
+ // 	1.运行test()和new test()的结果是什么;
+		var a = 5;
+		function test(){
+			a = 0;
+			console.log(a);
+			console.log(this.a);
+			var a;
+			console.log(a);
+		}
+	test();
+	var test1 = new test();
+
+
+
+
+	</script>
+</body>
+</html>

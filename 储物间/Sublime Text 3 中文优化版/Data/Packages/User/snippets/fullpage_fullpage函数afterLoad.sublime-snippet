@@ -1,0 +1,10 @@
+<snippet>
+     <content>
+     <![CDATA[afterLoad: function(link, index){
+     ${1:}
+}]]>
+     </content>
+     <tabTrigger>afterLoad</tabTrigger>
+     <description>滚动到某一屏后的回调函数</description>
+     <scope></scope>
+</snippet>

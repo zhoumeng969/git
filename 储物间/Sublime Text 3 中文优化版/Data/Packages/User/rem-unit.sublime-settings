@@ -1,0 +1,6 @@
+{
+    "exts": [".html",".css", ".scss", ".less", ".sass", ".styl"], //启用此插件的文件类型。
+    "fontsize": 16,//html元素font-size值，默认为16。
+    "precision": 8,//px转rem的小数部分的最大长度，默认为8.
+    "leadingzero": false,//是否保留前导0，默认不保留。
+}

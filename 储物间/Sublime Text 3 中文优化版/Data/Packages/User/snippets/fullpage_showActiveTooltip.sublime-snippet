@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[showActiveTooltip]]>
+     </content>
+     <tabTrigger>showAt</tabTrigger>
+     <description>是否显示当前项目导航的tip标签提示</description>
+     <scope></scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[keyboardScrolling]]>
+     </content>
+     <tabTrigger>keyboardScrolling</tabTrigger>
+     <description>是否使用键盘方向键导航</description>
+     <scope></scope>
+</snippet>

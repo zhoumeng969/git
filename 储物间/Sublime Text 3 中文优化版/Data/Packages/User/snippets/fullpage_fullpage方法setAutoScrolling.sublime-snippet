@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[setAutoScrolling()]]>
+     </content>
+     <tabTrigger>setAutoScrolling()</tabTrigger>
+     <description>设置页面滚动方式-true自动滚动</description>
+     <scope></scope>
+</snippet>

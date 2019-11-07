@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[slidesNavPosition]]>
+     </content>
+     <tabTrigger>slidesNavPos</tabTrigger>
+     <description>轮播图项目导航位置top或bottom</description>
+     <scope></scope>
+</snippet>

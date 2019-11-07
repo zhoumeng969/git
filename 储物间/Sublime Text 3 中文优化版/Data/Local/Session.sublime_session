@@ -1,0 +1,1853 @@
+{
+	"folder_history":
+	[
+		"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo - 副本",
+		"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板 - 副本",
+		"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo",
+		"/C/Users/PrincessBaby/Desktop/学习模块/测试专用模板",
+		"/C/Users/PrincessBaby/Desktop/学习模块/解决闭包问题",
+		"/C/Users/PrincessBaby/Desktop/学习模块/H-ui.admin_3.1.3.1/H-ui.admin",
+		"/C/Users/PrincessBaby/Desktop/学习模块/首页测试代码",
+		"/C/Users/PrincessBaby/Desktop/success",
+		"/C/Users/PrincessBaby/Desktop/学习模块/验证码界面",
+		"/F/learn/demo江湖/demo_kongfu/个人简历",
+		"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板",
+		"/F/learn/jqgrid分页问题",
+		"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模拟",
+		"/C/Users/PrincessBaby/Desktop/学习模块/时钟器/html5-svg-clock/html5-svg-clock",
+		"/C/Users/PrincessBaby/Desktop/学习模块/时钟器",
+		"/C/Users/PrincessBaby/Desktop/1129",
+		"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0",
+		"/C/Users/PrincessBaby/Desktop/bootstrap/bootstrap-3.3.7-dist/bootstrap",
+		"/F/learn/Bcode/input下拉检索",
+		"/C/Users/PrincessBaby/Desktop/学习模块/layer_demo",
+		"/C/Users/PrincessBaby/Desktop/学习模块/初始化个人简历",
+		"/C/Users/PrincessBaby/Desktop/public",
+		"/C/Users/PrincessBaby/Desktop/学习模块/input模擬触发测试代码",
+		"/C/Users/PrincessBaby/Desktop/layer_demo",
+		"/C/Users/PrincessBaby/Desktop/网站建设所需东西/layer-v3.1.1",
+		"/C/Users/PrincessBaby/Desktop/blogin/azds_multi-step-registration/registration",
+		"/C/Users/PrincessBaby/Desktop/网站建设所需东西/登录注册模块/azds_registration-forms/azds_registration-forms/form-3",
+		"/C/Users/PrincessBaby/Desktop/forlogin",
+		"/C/Users/PrincessBaby/Desktop/bootstrap/lvseqingshuanglogin",
+		"/C/Users/PrincessBaby/Desktop/学习模块/瀑布流测试代码",
+		"/C/Users/PrincessBaby/Desktop/学习模块/初始化测试代码",
+		"/C/Users/PrincessBaby/Desktop/alertModel",
+		"/C/Users/PrincessBaby/Desktop/bootstrap/ace",
+		"/C/Users/PrincessBaby/Desktop/jiaoben1503/jiaoben1503",
+		"/F/learn/项目self/h5_game/sheji/sheji_game",
+		"/F/learn/项目self/h5_game/canvas/gametest",
+		"/F/learn/项目self/h5_game/html5-remove-game",
+		"/F/learn/nodejs_pro_webstrom/reptile",
+		"/F/learn/nodejs_pro_webstrom/reptest/public",
+		"/C/Users/PrincessBaby/Desktop/学习模块/css3-shine-switch-button/css3-shine-switch-button",
+		"/C/Users/PrincessBaby/Desktop/学习模块/menutest",
+		"/C/Users/PrincessBaby/Desktop/css3-shine-switch-button",
+		"/C/Users/PrincessBaby/Desktop/menutest",
+		"/F/learn/interview题目",
+		"/F/learn/项目self/css一些动态炫酷效果/index",
+		"/C/Users/PrincessBaby/Desktop/database",
+		"/F/learn/项目self/滑块验证插件/jiaoben5309",
+		"/F/learn/项目self/sysdream",
+		"/F/learn/Bcode",
+		"/C/Users/PrincessBaby/Desktop/modify",
+		"/F/learn/常见技术face",
+		"/C/Users/PrincessBaby/Desktop/合并版本/indextype/indextype"
+	],
+	"last_version": 3114,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 452.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"col",
+						"color"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"f-s",
+						"font-size: $1;	Property"
+					],
+					[
+						"fl",
+						"float: none;	Property"
+					],
+					[
+						"bg",
+						"bg	background: #${1:000};"
+					],
+					[
+						"float",
+						"float: right;	Property"
+					],
+					[
+						"plat",
+						"div.plat"
+					],
+					[
+						"le",
+						"left	(taobao.css)"
+					],
+					[
+						"f-si",
+						"font-size"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"backgro",
+						"background-color"
+					],
+					[
+						"w_pr7",
+						"w_pr70	(index.css)"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"w_3",
+						"w_px300	(index.css)"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"script",
+						"script	<script>"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"margin-top",
+						"margin-top"
+					],
+					[
+						"sty",
+						"style	<style>"
+					],
+					[
+						"index",
+						"indexOf	(layerdemo.js)"
+					],
+					[
+						"setTimeout",
+						"setTimeout()	Window"
+					],
+					[
+						"layer",
+						"layer.msg"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"jq",
+						"jquery-2.0.3.js"
+					],
+					[
+						"st",
+						"strong	<strong>"
+					],
+					[
+						"te",
+						"text"
+					],
+					[
+						"push",
+						"push()	Array"
+					],
+					[
+						"a",
+						"a	<a href=\"mailto:\"> "
+					],
+					[
+						"ht",
+						"html5	Simple HTML5 Boilerplate"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"h",
+						"html5	Simple HTML5 Boilerplate"
+					],
+					[
+						"inpt",
+						"input_0810.txt	(index.js)"
+					],
+					[
+						"settio",
+						"setTimeout	(index.html)"
+					],
+					[
+						"sele",
+						"select	<select>"
+					],
+					[
+						"input",
+						"inputt	input - text"
+					],
+					[
+						"jquer",
+						"jquery"
+					],
+					[
+						"link",
+						"link"
+					],
+					[
+						"blo",
+						"bold"
+					],
+					[
+						"app",
+						"append	.append()"
+					],
+					[
+						"baco",
+						"background-color"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"type",
+						"type	(menufunc.html)"
+					],
+					[
+						"in",
+						"input	(menufunc.html)"
+					],
+					[
+						"leve",
+						"level_detail	(menufunc.html)"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"diso",
+						"display: block;	Property"
+					],
+					[
+						"entui-",
+						"entui-input"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"border",
+						"bordercolor	(tabtec.html)"
+					],
+					[
+						"bol",
+						"bold	(index.jsp)"
+					],
+					[
+						"VA",
+						"value	Attr"
+					],
+					[
+						"len",
+						"lenflag"
+					],
+					[
+						"join",
+						"join()	Array"
+					],
+					[
+						"clearI",
+						"clearInterval()	Frame"
+					],
+					[
+						"win",
+						"window	jsWindow"
+					],
+					[
+						"set",
+						"setInterval	jsWindow"
+					],
+					[
+						"tab",
+						"table	<table>"
+					],
+					[
+						"jQu",
+						"jQuery	jQuery"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"lo",
+						"load	(knowledgeruleadd.jsp)"
+					],
+					[
+						"scr",
+						"script	<script>"
+					],
+					[
+						"select",
+						"select	Tag"
+					],
+					[
+						"style",
+						"style	Attr"
+					],
+					[
+						"butto",
+						"button"
+					],
+					[
+						"cent",
+						"center"
+					],
+					[
+						"texi",
+						"text-align"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"svg",
+						"svg设计	(teclearn.html)"
+					],
+					[
+						"inpu",
+						"inputtec	(teclearn.html)"
+					],
+					[
+						"inp",
+						"inputtec	(teclearn.html)"
+					],
+					[
+						"loca",
+						"location	(settings.xml)"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"ove",
+						"overflow"
+					],
+					[
+						"do",
+						"doctype	DOCTYPE HTML"
+					],
+					[
+						"scoll",
+						"scoll_left	(facet.html)"
+					],
+					[
+						"mr-l",
+						"margin-left"
+					],
+					[
+						"prom",
+						"prom-2	(search.css)"
+					],
+					[
+						"w_",
+						"w_p100	(search.css)"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"setti",
+						"setTimeout	jsWindow"
+					],
+					[
+						"ne",
+						"nextnode"
+					],
+					[
+						"AL",
+						"alert	jsWindow"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"CSS",
+						"css()	jQuery"
+					],
+					[
+						"unde",
+						"undefined"
+					],
+					[
+						"ty",
+						"typeof"
+					],
+					[
+						"function",
+						"function	jsProp"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"val",
+						"val	.val()"
+					],
+					[
+						"cli",
+						"click	.click()"
+					],
+					[
+						"sc",
+						"script	<script>"
+					],
+					[
+						"cal",
+						"class	Attr"
+					],
+					[
+						"sp",
+						"span	<span>"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"backgroun",
+						"background-size"
+					],
+					[
+						"u",
+						"url()"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 38.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 269.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"1 import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/周盟/Desktop/Test/vue.min.js",
+				"/E/vue/vue.min.js",
+				"/C/Users/周盟/Desktop/html+css+js/html、css lesson3/css.chm",
+				"/C/Users/周盟/Desktop/渡一教育：web前端全阶段/2. 网络/ajax/get/test.html",
+				"/C/Users/周盟/Desktop/Sublime Text 3 中文优化版/Data/Packages/css compact expand/Default (Windows).sublime-keymap",
+				"/G/小项目/taobaoyekuangjia.css",
+				"/G/小项目/taobaoyekuangjia.html",
+				"/C/Users/周盟/Desktop/img/ewm.png",
+				"/G/小项目/daohanglan.css",
+				"/G/小项目/daohanglan.html",
+				"/C/Users/周盟/Desktop/新建文件夹/lesson1.html",
+				"/G/小项目/aoyun.html",
+				"/C/Users/周盟/Desktop/新建文件夹/lesson3.css",
+				"/G/小项目/aoyun.css",
+				"/C/Users/周盟/Desktop/taobao2.html",
+				"/C/Users/周盟/Desktop/taobao.css",
+				"/C/Users/周盟/Desktop/taobao2.css",
+				"/C/Users/周盟/Desktop/taobao.html",
+				"/C/Users/周盟/Desktop/新建文件夹/lesson2.html.html",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/demo_jianghu.png",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo - 副本/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo - 副本/css/index.css",
+				"/C/Users/PrincessBaby/Desktop/学习模块/首页测试代码/css/comm/hdpcomm.css",
+				"/C/Users/PrincessBaby/Desktop/学习模块/首页测试代码/index.html",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/caniuse_local/data/data.js",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/CodeFormatter/Main.sublime-menu",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/Main.sublime-menu",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/简介.txt",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/使用说明.txt",
+				"/C/Users/PrincessBaby/Desktop/insTopSQL2.jsp",
+				"/C/Users/PrincessBaby/Desktop/dsmart/软件模块_告警模块开启复制一条相同数据/homepage.js",
+				"/C/Users/PrincessBaby/Desktop/dsmart/软件模块_告警模块开启复制一条相同数据/alertmodelController.java",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/Marte.png",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/ColorPicker/Main.sublime-menu",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Index/CURRENT",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Index/LOG",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Index/index_version",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Review Myself/README.md",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/AdvancedNewFile/README.md",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Tag/Tag Package.sublime-settings",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo - 副本/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/首页测试代码/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/index_demo.html",
+				"/C/Users/PrincessBaby/Desktop/demo_index2.html",
+				"/E/Software/tectool/maven/apache-maven-3.5.0-bin/apache-maven-3.5.0/conf/settings.xml",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/View In Browser.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/Tag Package.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/ApplySyntax.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/AdvancedNewFile.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/5b11c02b-63ef-4939-b45c-53eb19ce0fb6.dmp",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Installed Packages/IpAddress.sublime-package",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/caniuse_local/README.md",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/KEEPME",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Local/Session.sublime_session",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/PrincessBaby/Desktop/翻墙/hosts",
+				"/C/Users/PrincessBaby/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板/js/index.js",
+				"/F/learn/demo江湖/demo_kongfu/个人简历/html/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/验证码界面/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/测试专用模板/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/测试专用模板/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo/index.html",
+				"/C/Users/PrincessBaby/Desktop/success/userActive.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板 - 副本/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板 - 副本/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/网站建设所需东西/个人简历网站/快捷方式.html",
+				"/C/Users/PrincessBaby/Desktop/TopSQLcollection.jsp",
+				"/C/Users/PrincessBaby/Desktop/userActive.html",
+				"/C/Users/PrincessBaby/.ssh/known_hosts",
+				"/C/Users/PrincessBaby/Desktop/网站建设所需东西/登录注册模块/azds_registration-forms/azds_registration-forms/form-3/index.html",
+				"/C/Users/PrincessBaby/Desktop/server.xml",
+				"/C/Users/PrincessBaby/Desktop/pom.xml",
+				"/C/Users/PrincessBaby/Desktop/网站建设所需东西/登录注册模块/azds_registration-forms/azds_registration-forms/form-3/assets/css/style.css",
+				"/C/Users/PrincessBaby/Desktop/网站建设所需东西/登录注册模块/azds_registration-forms/azds_registration-forms/form-3/assets/js/scripts.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/初始化个人简历/css/index.css",
+				"/C/Users/PrincessBaby/Desktop/layer_demo/js/layerdemo.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/layer_demo/js/index.js",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/case.html",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/product.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/时钟器/index - 副本 - 副本.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/时钟器/index - 副本.html",
+				"/C/Users/PrincessBaby/Desktop/瑞腾资源管控平台_1127/modifyNameB.sh",
+				"/C/Users/PrincessBaby/Desktop/瑞腾资源管控平台_1127/touch1.sh",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模拟/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板/css/jqgrid/public-list.css",
+				"/C/Users/PrincessBaby/Desktop/indexScriptAudit.jsp",
+				"/C/Users/PrincessBaby/Desktop/学习模块/时钟器/index.html",
+				"/C/Users/PrincessBaby/Desktop/blogin/azds_multi-step-registration/registration/assets/js/scripts.js",
+				"/C/Users/PrincessBaby/Desktop/blogin/azds_multi-step-registration/registration/index.html",
+				"/C/Users/PrincessBaby/Desktop/hello.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/input模擬触发测试代码/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/初始化个人简历/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/layer_demo/index.html",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/解决闭包问题/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/解决闭包问题/js/index.js",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/res/static/css/index.css",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/news.html",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/about.html",
+				"/F/learn/Bcode/input下拉检索/facet.html",
+				"/F/learn/Bcode/input下拉检索/js/facet.js",
+				"/C/Users/PrincessBaby/Desktop/public/js/getdata.js",
+				"/C/Users/PrincessBaby/AppData/Local/Temp/startupCall.java-revHEAD.svn000.tmp.java",
+				"/C/Users/PrincessBaby/Desktop/学习模块/input模擬触发测试代码/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/blogin/azds_multi-step-registration/registration/assets/css/style.css",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板/index.html",
+				"/F/learn/test/gitpro/ssm-archetype-master/src/main/webapp/jsp/apphome/rewardlist/rewardlist - 副本.html",
+				"/F/learn/test/gitpro/ssm-archetype-master/src/main/webapp/jsp/apphome/rewardlist/js/rewardlist - 副本.js",
+				"/C/Users/PrincessBaby/Desktop/mgt_user.sql",
+				"/C/Users/PRINCE~1/AppData/Local/Temp/Rar$DRa0.784/WEB-INF/taskConfig/server.properties",
+				"/C/Users/PrincessBaby/Desktop/web.xml",
+				"/C/Users/PrincessBaby/Desktop/1129/dashboard.js",
+				"/C/Users/PrincessBaby/Desktop/bootstrap/bootstrap-3.3.7-dist/bootstrap/index.html",
+				"/C/Users/PrincessBaby/AppData/Local/Temp/Rar$DIa0.025/server.properties",
+				"/C/Users/PrincessBaby/Desktop/layer-v3.1.1 (1)/layer-v3.1.1/test.html",
+				"/C/Users/PrincessBaby/Desktop/layer_demo/css/layui.css",
+				"/C/Users/PrincessBaby/Desktop/学习模块/瀑布流测试代码/css/index.css",
+				"/C/Users/PrincessBaby/Desktop/layer_demo/layer.html",
+				"/C/Users/PrincessBaby/Desktop/USER.sql",
+				"/F/learn/test/gitpro/ssm-archetype-master/.settings/org.eclipse.wst.common.project.facet.core.xml",
+				"/F/learn/newproject/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/hdp/index.jsp",
+				"/F/learn/newproject/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/conf/Catalina/localhost/springMVC_spring_mybatis.xml",
+				"/E/Software/tectool/tomcat/apache-tomcat-7.0.64-windows-x64/apache-tomcat-7.0.64/wtpwebapps/ROOT/index.jsp",
+				"/F/learn/newproject/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/ROOT/index.jsp"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					";\n",
+					"border:1px solid #000;",
+					"240px",
+					";\n",
+					"934982246",
+					"1687349859",
+					"jqGridList",
+					"width",
+					"w_px",
+					"width",
+					"w_pr",
+					"pr",
+					"/*for(var i=0;i<tagnum;i++){\n                str = str + \"<div class='node\"+i+\"'></div>\";\n            }*/",
+					"hdp_part1",
+					"            \n",
+					"l",
+					"1px",
+					"			\n",
+					"<h2>该用户成功激活，是否立即登录！</h2>",
+					"body",
+					"list-content",
+					"-1",
+					"../..",
+					"png",
+					" border: 2px solid #fff;\n            ",
+					"/*background:-webkit-gradient(linear,center top,center bottom,from(blue), to(white));*/",
+					"index_s",
+					"<h3 id=\"aDate\"></h3>\n        <h2 id=\"week\"></h2>",
+					"类友网络",
+					"    \n",
+					" })(k)",
+					"function bulidrewardlist(){\n    var total = datastr.length;\n    for(var i =0;i<total;i++){\n        searchdap.push(result[i]);\n        topmore_title+=\"<tr><td style='display:none;'>\"+result[i].id+\"</td><td>\"+(i+1)+\"</td><td>\"+result[i].name+\"</td><td>\"+result[i].address+\"</td>\"+\n        \"<td>￥\"+result[i].paymoney+\"</td><td class='td-w'><div class='td-img td-img\"+i+\"'></div><div class='td-num'>\"+result[i].monthlist+\"</div></td></tr>\";\n    }\n    $(\".top_more\").html(topmore_title+\"</tbody>\");\n}",
+					"top_more",
+					"                    ",
+					"sition: fixed;\n    background: rgba(0, 0, 0, 0.5);\n    top:0;\n    left: 0;\n    z-index:1;\n",
+					"initZkNode",
+					" <a href=\"img/dz.png\">email me</a>",
+					"        \n",
+					"background-color",
+					"btn",
+					"<div style=\"text-align:center;\">\n<p>更多模板：<a href=\"http://www.mycodes.net/\" target=\"_blank\">源码之家</a></p>\n</div>\n",
+					"<meta name=description content=\"\">\n<meta name=viewport content=\"width=device-width, initia",
+					"savebase",
+					"basetab",
+					"222222",
+					"container",
+					"getAlldata",
+					"timejson",
+					"datajson",
+					"loadecharts",
+					"nport",
+					"port",
+					"            },3000);",
+					"checkCode",
+					"    \n",
+					"ui-step-item-num",
+					"toStep",
+					" <input type=\"text\" name=\"\" value=\"\" placeholder=\"\">\n            <",
+					"64BD2E",
+					"\n       $(\".menu-add .level\"+i).on(\"click\",function(){\n                debugger;\n                 $(\".menusnd\").css(\"display\",\"none\");\n                 $(\".menusub\"+i).show();\n        });",
+					"               \n",
+					";\n",
+					"                }",
+					"                \n",
+					"WEBSERVER_JDBC_PRO",
+					"DFC_DB_IP",
+					"DFC_DB_DATABASE",
+					"WEBSERVER_JDBC_PRO",
+					"jdbc.driverUrl",
+					"WEBSERVER_JDBC_PRO",
+					"conf/jdbc",
+					"absolute",
+					"relative",
+					"enter",
+					"<div class=\"text_input\">\n                <span class=\"text\">二等分2-2:</span>\n                <div class=\"input\">\n                    <input id=\"lower_limit\" />\n                </div>\n            </div>",
+					"%;\n",
+					"ui-icons_555555_256x240",
+					"ui-icons_555555_256x240.png",
+					"lable",
+					"cron_exp",
+					"datanotnull",
+					"dataIsnull",
+					"datanotnull",
+					"getcheck",
+					"lenflag",
+					";\n",
+					"                                 \n",
+					"                   \n",
+					"                            \n",
+					"0",
+					"                        ",
+					"getcheck",
+					"check",
+					"failed",
+					" var time  =",
+					"button",
+					"<style>\n        input::-webkit-input-placeholder{\n            color:#EBEBEB;\n        }\n        input::-moz-placeholder{   /* Mozilla Firefox 19+ */\n            color:#EBEBEB;\n        }\n        input:-moz-placeholder{    /* Mozilla Firefox 4 to 18 */\n            color:#EBEBEB;\n        }\n        input:-ms-input-placeholder{  /* Internet Explorer 10-11 */\n            color:#EBEBEB;\n        }\n    </style>",
+					"part1",
+					"dblinkinfo",
+					"table-input",
+					"arch info",
+					"content-input",
+					"function initActionID()\n    {\n        aclL2RuleEntry = RpcGet('aclL2RuleEntry');\n        var val;\n\n        for(var i=0;i<aclL2RuleEntry.length;i++)\n        {\n            if((aclL2RuleEntry[i].aclL2RuleProfileID == pId) && (aclL2RuleEntry[i].aclL2RuleAccessID == aId))\n            {\n                val = aclL2RuleEntry[i].aclL2Action;\n            }\n        }\n\n\n        $('#selAction option[value == \"+val+\"]').attr(\"selected\",\"selected\");\n    }",
+					"数据文件信息",
+					"getnewlastuid",
+					"doSave",
+					"css",
+					"moniinfo",
+					"batchDeleteKinstDetail",
+					"setDetailValue",
+					"超出阈值判断",
+					"\n              if(!_init){\n            	  if(i == result.length-1){\n            		  mon_indexnameHtml =\n      				  	'<hr class=\"tab_hr\"/>'+\n      				  	'<div class=\"tab_info\">'+\n      						'<div class=\"first_div\">'+\n      							'<span >诊断分析：</span>'+\n      						'</div>'+\n      					'</div>'+\n                        	'<div class=\"tab_info tab_zdfx\">'+\n      						'<div class=\"first_div\">'+\n      							'<span >'+_name+'：</span>'+\n      						'</div>'+\n      						'<div class=\"second_div\">'+\n      							'<span >'+_item.mon_indexname+'</span>'+\n      						'</div>'+\n                        	'</div>';\n            	  }\n              }\n              */",
+					"stid = $(\"#stid\").val();\n	//var stid = s",
+					"user",
+					">>>>>>>>>",
+					"=====",
+					"<<<",
+					" width=\"30%\" height=\"20%\"",
+					" <h3>属性选择器的校验</h3>",
+					"   \n",
+					"getscoller",
+					"%;",
+					"scoll_left",
+					"validate_flagColor",
+					"dbli",
+					"ulnum",
+					" <div class=\"contain\">",
+					">>>>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 273.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 904.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"col",
+						"color"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"f-s",
+						"font-size: $1;	Property"
+					],
+					[
+						"fl",
+						"float: none;	Property"
+					],
+					[
+						"bg",
+						"bg	background: #${1:000};"
+					],
+					[
+						"float",
+						"float: right;	Property"
+					],
+					[
+						"plat",
+						"div.plat"
+					],
+					[
+						"le",
+						"left	(taobao.css)"
+					],
+					[
+						"f-si",
+						"font-size"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"backgro",
+						"background-color"
+					],
+					[
+						"w_pr7",
+						"w_pr70	(index.css)"
+					],
+					[
+						"border-c",
+						"border-color"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"w_3",
+						"w_px300	(index.css)"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"script",
+						"script	<script>"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"margin-top",
+						"margin-top"
+					],
+					[
+						"sty",
+						"style	<style>"
+					],
+					[
+						"index",
+						"indexOf	(layerdemo.js)"
+					],
+					[
+						"setTimeout",
+						"setTimeout()	Window"
+					],
+					[
+						"layer",
+						"layer.msg"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"jq",
+						"jquery-2.0.3.js"
+					],
+					[
+						"st",
+						"strong	<strong>"
+					],
+					[
+						"te",
+						"text"
+					],
+					[
+						"push",
+						"push()	Array"
+					],
+					[
+						"a",
+						"a	<a href=\"mailto:\"> "
+					],
+					[
+						"ht",
+						"html5	Simple HTML5 Boilerplate"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"h",
+						"html5	Simple HTML5 Boilerplate"
+					],
+					[
+						"inpt",
+						"input_0810.txt	(index.js)"
+					],
+					[
+						"settio",
+						"setTimeout	(index.html)"
+					],
+					[
+						"sele",
+						"select	<select>"
+					],
+					[
+						"input",
+						"inputt	input - text"
+					],
+					[
+						"jquer",
+						"jquery"
+					],
+					[
+						"link",
+						"link"
+					],
+					[
+						"blo",
+						"bold"
+					],
+					[
+						"app",
+						"append	.append()"
+					],
+					[
+						"baco",
+						"background-color"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"type",
+						"type	(menufunc.html)"
+					],
+					[
+						"in",
+						"input	(menufunc.html)"
+					],
+					[
+						"leve",
+						"level_detail	(menufunc.html)"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"diso",
+						"display: block;	Property"
+					],
+					[
+						"entui-",
+						"entui-input"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"border",
+						"bordercolor	(tabtec.html)"
+					],
+					[
+						"bol",
+						"bold	(index.jsp)"
+					],
+					[
+						"VA",
+						"value	Attr"
+					],
+					[
+						"len",
+						"lenflag"
+					],
+					[
+						"join",
+						"join()	Array"
+					],
+					[
+						"clearI",
+						"clearInterval()	Frame"
+					],
+					[
+						"win",
+						"window	jsWindow"
+					],
+					[
+						"set",
+						"setInterval	jsWindow"
+					],
+					[
+						"tab",
+						"table	<table>"
+					],
+					[
+						"jQu",
+						"jQuery	jQuery"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"lo",
+						"load	(knowledgeruleadd.jsp)"
+					],
+					[
+						"scr",
+						"script	<script>"
+					],
+					[
+						"select",
+						"select	Tag"
+					],
+					[
+						"style",
+						"style	Attr"
+					],
+					[
+						"butto",
+						"button"
+					],
+					[
+						"cent",
+						"center"
+					],
+					[
+						"texi",
+						"text-align"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"svg",
+						"svg设计	(teclearn.html)"
+					],
+					[
+						"inpu",
+						"inputtec	(teclearn.html)"
+					],
+					[
+						"inp",
+						"inputtec	(teclearn.html)"
+					],
+					[
+						"loca",
+						"location	(settings.xml)"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"ove",
+						"overflow"
+					],
+					[
+						"do",
+						"doctype	DOCTYPE HTML"
+					],
+					[
+						"scoll",
+						"scoll_left	(facet.html)"
+					],
+					[
+						"mr-l",
+						"margin-left"
+					],
+					[
+						"prom",
+						"prom-2	(search.css)"
+					],
+					[
+						"w_",
+						"w_p100	(search.css)"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"setti",
+						"setTimeout	jsWindow"
+					],
+					[
+						"ne",
+						"nextnode"
+					],
+					[
+						"AL",
+						"alert	jsWindow"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"CSS",
+						"css()	jQuery"
+					],
+					[
+						"unde",
+						"undefined"
+					],
+					[
+						"ty",
+						"typeof"
+					],
+					[
+						"function",
+						"function	jsProp"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"val",
+						"val	.val()"
+					],
+					[
+						"cli",
+						"click	.click()"
+					],
+					[
+						"sc",
+						"script	<script>"
+					],
+					[
+						"cal",
+						"class	Attr"
+					],
+					[
+						"sp",
+						"span	<span>"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"backgroun",
+						"background-size"
+					],
+					[
+						"u",
+						"url()"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/周盟/Desktop/vue/test1.html",
+					"settings":
+					{
+						"buffer_size": 659,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 59.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 723.0
+			},
+			"console":
+			{
+				"height": 269.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"1 import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/周盟/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/周盟/Desktop/Test/vue.min.js",
+				"/E/vue/vue.min.js",
+				"/C/Users/周盟/Desktop/html+css+js/html、css lesson3/css.chm",
+				"/C/Users/周盟/Desktop/渡一教育：web前端全阶段/2. 网络/ajax/get/test.html",
+				"/C/Users/周盟/Desktop/Sublime Text 3 中文优化版/Data/Packages/css compact expand/Default (Windows).sublime-keymap",
+				"/G/小项目/taobaoyekuangjia.css",
+				"/G/小项目/taobaoyekuangjia.html",
+				"/C/Users/周盟/Desktop/img/ewm.png",
+				"/G/小项目/daohanglan.css",
+				"/G/小项目/daohanglan.html",
+				"/C/Users/周盟/Desktop/新建文件夹/lesson1.html",
+				"/G/小项目/aoyun.html",
+				"/C/Users/周盟/Desktop/新建文件夹/lesson3.css",
+				"/G/小项目/aoyun.css",
+				"/C/Users/周盟/Desktop/taobao2.html",
+				"/C/Users/周盟/Desktop/taobao.css",
+				"/C/Users/周盟/Desktop/taobao2.css",
+				"/C/Users/周盟/Desktop/taobao.html",
+				"/C/Users/周盟/Desktop/新建文件夹/lesson2.html.html",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/demo_jianghu.png",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo - 副本/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo - 副本/css/index.css",
+				"/C/Users/PrincessBaby/Desktop/学习模块/首页测试代码/css/comm/hdpcomm.css",
+				"/C/Users/PrincessBaby/Desktop/学习模块/首页测试代码/index.html",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/caniuse_local/data/data.js",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/CodeFormatter/Main.sublime-menu",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/Main.sublime-menu",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/简介.txt",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/使用说明.txt",
+				"/C/Users/PrincessBaby/Desktop/insTopSQL2.jsp",
+				"/C/Users/PrincessBaby/Desktop/dsmart/软件模块_告警模块开启复制一条相同数据/homepage.js",
+				"/C/Users/PrincessBaby/Desktop/dsmart/软件模块_告警模块开启复制一条相同数据/alertmodelController.java",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Default/Marte.png",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/ColorPicker/Main.sublime-menu",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Index/CURRENT",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Index/LOG",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Index/index_version",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Review Myself/README.md",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/AdvancedNewFile/README.md",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/Tag/Tag Package.sublime-settings",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo - 副本/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/首页测试代码/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/index_demo.html",
+				"/C/Users/PrincessBaby/Desktop/demo_index2.html",
+				"/E/Software/tectool/maven/apache-maven-3.5.0-bin/apache-maven-3.5.0/conf/settings.xml",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/View In Browser.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/Tag Package.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/ApplySyntax.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/AdvancedNewFile.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/5b11c02b-63ef-4939-b45c-53eb19ce0fb6.dmp",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Installed Packages/IpAddress.sublime-package",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/caniuse_local/README.md",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/KEEPME",
+				"/D/Program Files/Sublime Text 3 中文优化版/Data/Local/Session.sublime_session",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/PrincessBaby/Desktop/翻墙/hosts",
+				"/C/Users/PrincessBaby/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板/js/index.js",
+				"/F/learn/demo江湖/demo_kongfu/个人简历/html/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/验证码界面/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/测试专用模板/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/测试专用模板/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/登录模块的demo/index.html",
+				"/C/Users/PrincessBaby/Desktop/success/userActive.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板 - 副本/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板 - 副本/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/网站建设所需东西/个人简历网站/快捷方式.html",
+				"/C/Users/PrincessBaby/Desktop/TopSQLcollection.jsp",
+				"/C/Users/PrincessBaby/Desktop/userActive.html",
+				"/C/Users/PrincessBaby/.ssh/known_hosts",
+				"/C/Users/PrincessBaby/Desktop/网站建设所需东西/登录注册模块/azds_registration-forms/azds_registration-forms/form-3/index.html",
+				"/C/Users/PrincessBaby/Desktop/server.xml",
+				"/C/Users/PrincessBaby/Desktop/pom.xml",
+				"/C/Users/PrincessBaby/Desktop/网站建设所需东西/登录注册模块/azds_registration-forms/azds_registration-forms/form-3/assets/css/style.css",
+				"/C/Users/PrincessBaby/Desktop/网站建设所需东西/登录注册模块/azds_registration-forms/azds_registration-forms/form-3/assets/js/scripts.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/初始化个人简历/css/index.css",
+				"/C/Users/PrincessBaby/Desktop/layer_demo/js/layerdemo.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/layer_demo/js/index.js",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/case.html",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/product.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/时钟器/index - 副本 - 副本.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/时钟器/index - 副本.html",
+				"/C/Users/PrincessBaby/Desktop/瑞腾资源管控平台_1127/modifyNameB.sh",
+				"/C/Users/PrincessBaby/Desktop/瑞腾资源管控平台_1127/touch1.sh",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模拟/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板/css/jqgrid/public-list.css",
+				"/C/Users/PrincessBaby/Desktop/indexScriptAudit.jsp",
+				"/C/Users/PrincessBaby/Desktop/学习模块/时钟器/index.html",
+				"/C/Users/PrincessBaby/Desktop/blogin/azds_multi-step-registration/registration/assets/js/scripts.js",
+				"/C/Users/PrincessBaby/Desktop/blogin/azds_multi-step-registration/registration/index.html",
+				"/C/Users/PrincessBaby/Desktop/hello.js",
+				"/C/Users/PrincessBaby/Desktop/学习模块/input模擬触发测试代码/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/初始化个人简历/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/layer_demo/index.html",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/解决闭包问题/index.html",
+				"/C/Users/PrincessBaby/Desktop/学习模块/解决闭包问题/js/index.js",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/res/static/css/index.css",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/news.html",
+				"/F/learn/demo江湖/demo_kongfu/layuiNetCompany-v1.0.0/html/about.html",
+				"/F/learn/Bcode/input下拉检索/facet.html",
+				"/F/learn/Bcode/input下拉检索/js/facet.js",
+				"/C/Users/PrincessBaby/Desktop/public/js/getdata.js",
+				"/C/Users/PrincessBaby/AppData/Local/Temp/startupCall.java-revHEAD.svn000.tmp.java",
+				"/C/Users/PrincessBaby/Desktop/学习模块/input模擬触发测试代码/js/index.js",
+				"/C/Users/PrincessBaby/Desktop/blogin/azds_multi-step-registration/registration/assets/css/style.css",
+				"/C/Users/PrincessBaby/Desktop/学习模块/jqgrid表格模板/index.html",
+				"/F/learn/test/gitpro/ssm-archetype-master/src/main/webapp/jsp/apphome/rewardlist/rewardlist - 副本.html",
+				"/F/learn/test/gitpro/ssm-archetype-master/src/main/webapp/jsp/apphome/rewardlist/js/rewardlist - 副本.js",
+				"/C/Users/PrincessBaby/Desktop/mgt_user.sql",
+				"/C/Users/PRINCE~1/AppData/Local/Temp/Rar$DRa0.784/WEB-INF/taskConfig/server.properties",
+				"/C/Users/PrincessBaby/Desktop/web.xml",
+				"/C/Users/PrincessBaby/Desktop/1129/dashboard.js",
+				"/C/Users/PrincessBaby/Desktop/bootstrap/bootstrap-3.3.7-dist/bootstrap/index.html",
+				"/C/Users/PrincessBaby/AppData/Local/Temp/Rar$DIa0.025/server.properties",
+				"/C/Users/PrincessBaby/Desktop/layer-v3.1.1 (1)/layer-v3.1.1/test.html",
+				"/C/Users/PrincessBaby/Desktop/layer_demo/css/layui.css",
+				"/C/Users/PrincessBaby/Desktop/学习模块/瀑布流测试代码/css/index.css",
+				"/C/Users/PrincessBaby/Desktop/layer_demo/layer.html",
+				"/C/Users/PrincessBaby/Desktop/USER.sql",
+				"/F/learn/test/gitpro/ssm-archetype-master/.settings/org.eclipse.wst.common.project.facet.core.xml",
+				"/F/learn/newproject/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/hdp/index.jsp",
+				"/F/learn/newproject/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/conf/Catalina/localhost/springMVC_spring_mybatis.xml",
+				"/E/Software/tectool/tomcat/apache-tomcat-7.0.64-windows-x64/apache-tomcat-7.0.64/wtpwebapps/ROOT/index.jsp"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					";\n",
+					"border:1px solid #000;",
+					"240px",
+					";\n",
+					"934982246",
+					"1687349859",
+					"jqGridList",
+					"width",
+					"w_px",
+					"width",
+					"w_pr",
+					"pr",
+					"/*for(var i=0;i<tagnum;i++){\n                str = str + \"<div class='node\"+i+\"'></div>\";\n            }*/",
+					"hdp_part1",
+					"            \n",
+					"l",
+					"1px",
+					"			\n",
+					"<h2>该用户成功激活，是否立即登录！</h2>",
+					"body",
+					"list-content",
+					"-1",
+					"../..",
+					"png",
+					" border: 2px solid #fff;\n            ",
+					"/*background:-webkit-gradient(linear,center top,center bottom,from(blue), to(white));*/",
+					"index_s",
+					"<h3 id=\"aDate\"></h3>\n        <h2 id=\"week\"></h2>",
+					"类友网络",
+					"    \n",
+					" })(k)",
+					"function bulidrewardlist(){\n    var total = datastr.length;\n    for(var i =0;i<total;i++){\n        searchdap.push(result[i]);\n        topmore_title+=\"<tr><td style='display:none;'>\"+result[i].id+\"</td><td>\"+(i+1)+\"</td><td>\"+result[i].name+\"</td><td>\"+result[i].address+\"</td>\"+\n        \"<td>￥\"+result[i].paymoney+\"</td><td class='td-w'><div class='td-img td-img\"+i+\"'></div><div class='td-num'>\"+result[i].monthlist+\"</div></td></tr>\";\n    }\n    $(\".top_more\").html(topmore_title+\"</tbody>\");\n}",
+					"top_more",
+					"                    ",
+					"sition: fixed;\n    background: rgba(0, 0, 0, 0.5);\n    top:0;\n    left: 0;\n    z-index:1;\n",
+					"initZkNode",
+					" <a href=\"img/dz.png\">email me</a>",
+					"        \n",
+					"background-color",
+					"btn",
+					"<div style=\"text-align:center;\">\n<p>更多模板：<a href=\"http://www.mycodes.net/\" target=\"_blank\">源码之家</a></p>\n</div>\n",
+					"<meta name=description content=\"\">\n<meta name=viewport content=\"width=device-width, initia",
+					"savebase",
+					"basetab",
+					"222222",
+					"container",
+					"getAlldata",
+					"timejson",
+					"datajson",
+					"loadecharts",
+					"nport",
+					"port",
+					"            },3000);",
+					"checkCode",
+					"    \n",
+					"ui-step-item-num",
+					"toStep",
+					" <input type=\"text\" name=\"\" value=\"\" placeholder=\"\">\n            <",
+					"64BD2E",
+					"\n       $(\".menu-add .level\"+i).on(\"click\",function(){\n                debugger;\n                 $(\".menusnd\").css(\"display\",\"none\");\n                 $(\".menusub\"+i).show();\n        });",
+					"               \n",
+					";\n",
+					"                }",
+					"                \n",
+					"WEBSERVER_JDBC_PRO",
+					"DFC_DB_IP",
+					"DFC_DB_DATABASE",
+					"WEBSERVER_JDBC_PRO",
+					"jdbc.driverUrl",
+					"WEBSERVER_JDBC_PRO",
+					"conf/jdbc",
+					"absolute",
+					"relative",
+					"enter",
+					"<div class=\"text_input\">\n                <span class=\"text\">二等分2-2:</span>\n                <div class=\"input\">\n                    <input id=\"lower_limit\" />\n                </div>\n            </div>",
+					"%;\n",
+					"ui-icons_555555_256x240",
+					"ui-icons_555555_256x240.png",
+					"lable",
+					"cron_exp",
+					"datanotnull",
+					"dataIsnull",
+					"datanotnull",
+					"getcheck",
+					"lenflag",
+					";\n",
+					"                                 \n",
+					"                   \n",
+					"                            \n",
+					"0",
+					"                        ",
+					"getcheck",
+					"check",
+					"failed",
+					" var time  =",
+					"button",
+					"<style>\n        input::-webkit-input-placeholder{\n            color:#EBEBEB;\n        }\n        input::-moz-placeholder{   /* Mozilla Firefox 19+ */\n            color:#EBEBEB;\n        }\n        input:-moz-placeholder{    /* Mozilla Firefox 4 to 18 */\n            color:#EBEBEB;\n        }\n        input:-ms-input-placeholder{  /* Internet Explorer 10-11 */\n            color:#EBEBEB;\n        }\n    </style>",
+					"part1",
+					"dblinkinfo",
+					"table-input",
+					"arch info",
+					"content-input",
+					"function initActionID()\n    {\n        aclL2RuleEntry = RpcGet('aclL2RuleEntry');\n        var val;\n\n        for(var i=0;i<aclL2RuleEntry.length;i++)\n        {\n            if((aclL2RuleEntry[i].aclL2RuleProfileID == pId) && (aclL2RuleEntry[i].aclL2RuleAccessID == aId))\n            {\n                val = aclL2RuleEntry[i].aclL2Action;\n            }\n        }\n\n\n        $('#selAction option[value == \"+val+\"]').attr(\"selected\",\"selected\");\n    }",
+					"数据文件信息",
+					"getnewlastuid",
+					"doSave",
+					"css",
+					"moniinfo",
+					"batchDeleteKinstDetail",
+					"setDetailValue",
+					"超出阈值判断",
+					"\n              if(!_init){\n            	  if(i == result.length-1){\n            		  mon_indexnameHtml =\n      				  	'<hr class=\"tab_hr\"/>'+\n      				  	'<div class=\"tab_info\">'+\n      						'<div class=\"first_div\">'+\n      							'<span >诊断分析：</span>'+\n      						'</div>'+\n      					'</div>'+\n                        	'<div class=\"tab_info tab_zdfx\">'+\n      						'<div class=\"first_div\">'+\n      							'<span >'+_name+'：</span>'+\n      						'</div>'+\n      						'<div class=\"second_div\">'+\n      							'<span >'+_item.mon_indexname+'</span>'+\n      						'</div>'+\n                        	'</div>';\n            	  }\n              }\n              */",
+					"stid = $(\"#stid\").val();\n	//var stid = s",
+					"user",
+					">>>>>>>>>",
+					"=====",
+					"<<<",
+					" width=\"30%\" height=\"20%\"",
+					" <h3>属性选择器的校验</h3>",
+					"   \n",
+					"getscoller",
+					"%;",
+					"scoll_left",
+					"validate_flagColor",
+					"dbli",
+					"ulnum",
+					" <div class=\"contain\">",
+					">>>>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"bs_sintax": "plain text",
+									"function_name_status_row": 0,
+									"origPos": 0.0,
+									"syncScroll": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/周盟/Desktop/vue/test1.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 659,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"bs_sintax": "html.sublime-syntax",
+									"buffer_scroll_name": "1be98baa",
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										227,
+										10,
+										23,
+										0,
+										25,
+										12,
+										10,
+										240,
+										132,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"function_name_status_row": 0,
+									"origPos": 306.0,
+									"origin_encoding": "ASCII",
+									"syncScroll": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 306.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 212.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,693,654,155,1580",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 273.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

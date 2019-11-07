@@ -1,0 +1,12 @@
+<snippet>
+     <content>
+     <![CDATA[
+<!--[if lte ie 8]>
+    ${1:}
+<![endif]-->
+     ]]>
+     </content>
+     <tabTrigger></tabTrigger>
+     <description></description>
+     <scope></scope>
+</snippet>

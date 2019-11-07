@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[scrollOverflow]]>
+     </content>
+     <tabTrigger>scrollOverflow</tabTrigger>
+     <description>fullpage内容超过满屏后是否显示滚动条</description>
+     <scope></scope>
+</snippet>

@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "path": "/home/<username>/code/python/my-cool-website"
+        }
+    ],
+    "settings": {
+        "sublime-view-in-browser": {
+            "baseUrl": "http://localhost:8080",
+            "basePath": "/home/<username>/code/python/my-cool-website"
+        }
+    }
+}

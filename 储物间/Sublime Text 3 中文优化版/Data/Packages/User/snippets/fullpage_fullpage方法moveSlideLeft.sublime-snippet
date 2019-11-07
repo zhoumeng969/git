@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[moveSlideLeft()]]>
+     </content>
+     <tabTrigger>moveSlideLeft()</tabTrigger>
+     <description>slide向左滚动</description>
+     <scope></scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+     <content>
+     <![CDATA[onLeave: function(index, nextIndex, direction){
+     ${1:}
+}]]>
+     </content>
+     <tabTrigger>onLeave</tabTrigger>
+     <description>滚动前的回调函数</description>
+     <scope></scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[setScrollingSpeed()]]>
+     </content>
+     <tabTrigger>setScrollingSpeed()</tabTrigger>
+     <description>定义以毫秒为单位的滚动速度</description>
+     <scope></scope>
+</snippet>

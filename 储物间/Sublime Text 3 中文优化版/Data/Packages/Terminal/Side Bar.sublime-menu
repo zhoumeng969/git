@@ -1,0 +1,3 @@
+[
+	{ "caption": "打开命令行…", "command": "open_terminal", "args": {"paths": []} }
+]

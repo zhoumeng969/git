@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[navigationPosition]]>
+     </content>
+     <tabTrigger>navPos</tabTrigger>
+     <description>项目导航的位置left或right</description>
+     <scope></scope>
+</snippet>

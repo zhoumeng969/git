@@ -1,0 +1,31 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+			"selector": "text, source, meta, string, punctuation, constant"
+		}
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Blackboard (SL).tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"AngularJS",
+		"IntelliSense",
+		"Local History",
+		"Vintage",
+		"Vintageous",
+		"JavaScript"
+	],
+	"show_encoding": true,
+	"tab_size": 4,
+	"theme": "Numix.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true
+}

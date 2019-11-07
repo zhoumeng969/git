@@ -1,0 +1,8 @@
+<snippet>
+     <content>
+     <![CDATA[<!--${1:这是一段注释，注释不会在浏览器中显示}-->]]>
+     </content>
+     <tabTrigger>hzs</tabTrigger>
+     <description>HTML注释</description>
+     <scope></scope>
+</snippet>
