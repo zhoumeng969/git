@@ -1,7 +1,7 @@
 #app .modo3 {
     width: 95%;
-    height: 280px;
-    border:1px solid black; 
+    height: 270px;
+    /* border:1px solid black;  */
     margin: 0 auto;
     text-decoration: none;
   }
@@ -10,10 +10,17 @@
     font-family: arial;
   }
 
+.van-tab{
+  width:100px;
+  height:45px;
+  margin: 0;
+  padding: 0;
+  
+}
 #app .modo3 .van-tab.van-tab--active {
     margin: 0;
     padding: 0;
-    width: 150px;
+    width: 190px;
     height: 45px;
     background-color: #456a9b;
     color: #fff;
@@ -32,4 +39,7 @@
     font-size: 12px;
     text-indent: 2em;
   }
-  
+
+#modo3-center{
+  width:200px;
+}

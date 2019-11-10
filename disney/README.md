@@ -1,4 +1,4 @@
-# freemall
+# disney
 
 ## Project setup
 ```

@@ -1,7 +1,7 @@
 #app .modo4 {
     width: 95%;
-    height: 350px;
-    border:1px solid black;
+    height: 280px;
+    /* border:1px solid black; */
     margin: 0 auto;
   }
 
@@ -9,9 +9,6 @@
     font-weight: 700;
     font-family: arial;
   }
-
-
-
 #app .modo4 .van-stepper1,
 #app .modo4 .van-stepper2,
 #app .modo4 .van-stepper3,
@@ -65,8 +62,14 @@
     color: #000;
     font-size: 20px;
   }
-
- #modo4-button {
+.modo4-bottom1{
+  position: relative;
+}
+.modo4-bottom1>p{
+  position: absolute;
+  left: 0;
+}
+#modo4-buttom2 {
     background-color: #fff;
     color: #337ab7;
     border: none;
@@ -74,5 +77,11 @@
     margin: 0;
     padding: 0;
     font-family: arial;
-    position: relative;
-  }
+    position: absolute;
+    left: 80px;
+    top: 23px;
+}
+
+
+
+
